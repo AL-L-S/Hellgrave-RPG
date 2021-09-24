@@ -105,9 +105,9 @@ maxMarketOffersAtATimePerPlayer = 100
 
 -- MySQL
 mysqlHost = "127.0.0.1"
-mysqlUser = "servertibia"
-mysqlPass = "Hakertak2192"
-mysqlDatabase = "hellgrave"
+mysqlUser = ""
+mysqlPass = ""
+mysqlDatabase = ""
 mysqlPort = 3306
 mysqlSock = ""
 passwordType = "sha1"
@@ -121,7 +121,7 @@ emoteSpells = true
 classicEquipmentSlots = false
 allowWalkthrough = true
 coinPacketSize = 25
-coinImagesURL = "http://127.0.0.1/Store/"
+coinImagesURL = "https://lepiigortv.com/Store/"
 classicAttackSpeed = false
 showScriptsLogInConsole = false
 
