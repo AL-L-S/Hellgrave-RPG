@@ -18,15 +18,8 @@
 
 ## Access **Hellgrave Mmorpg**
 
-  * To access on Hellgrave RPG Server you must have a registered account on LepiigorTV.
-  * Access to the website http://lepiigortv.com and login.
-  * Enter on Free Files and download it.
-  * Download Hellgrave Client from our website https://lepiigortv.com on our account.
-
-
-### Getting **Started**
-
-  * ! Important you will need to use ZnoteACC with this server and replace config.php for the config.php added in rar file on this repository, it will add correctly Cities and others for the game server.
+  * Download our client here: https://github.com/Open-Games-Community/Hellgrave-Client
+  * Download ZnoteAAC compatible with server: https://github.com/Open-Games-Community/ZnoteAAC-Hellgrave-Server
 
 ### About **Hellgrave**
 
