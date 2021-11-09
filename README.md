@@ -6,6 +6,10 @@
 
 [GitHub pull request](https://github.com/open-games-community/hellgrave-rpg/pulls)
 
+### MiniMap
+![Hellgrave_8](https://user-images.githubusercontent.com/89811188/140897020-ce1a267c-c293-4f9e-9c81-ff0bb8c5c3c6.png)
+
+### Pictures
 [![1.png](https://i.postimg.cc/xTPtwGsQ/1.png)](https://postimg.cc/BXXTDF97)
 [![2.png](https://i.postimg.cc/Z57jRbtD/2.png)](https://postimg.cc/ts6FvHgh)
 [![3.png](https://i.postimg.cc/MGgD79G7/3.png)](https://postimg.cc/2qFhmFhy)
