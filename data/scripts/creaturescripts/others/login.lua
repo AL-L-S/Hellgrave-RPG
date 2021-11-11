@@ -35,6 +35,9 @@ function playerLogin.onLogin(player)
 		end
 		player:addItem(2050, 1, true, 1, CONST_SLOT_AMMO)
 	else
+		player:registerEvent("ffirstMonsterDungeon")
+		player:registerEvent("fsecondMonsterDungeon")
+		player:registerEvent("fthirdMonsterDungeon")
 		player:sendTextMessage(MESSAGE_STATUS_DEFAULT, "Welcome to " .. SERVER_NAME .. ", !")
 		player:setStorageValue(Storage.TravellingTrader.Mission07, 1)
         player:setStorageValue(Storage.DjinnWar.EfreetFaction.Start, 3)
