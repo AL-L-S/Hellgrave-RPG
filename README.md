@@ -1,15 +1,35 @@
 # Hellgrave Mmorpg
 
+Hellgrave RPG Server is a custom RPG Server created by Edisondario Team using the Otservbr base fork.
+Is now maintained by Open Games Community, see the latests Updates on our forum, please take not to download
+the server from forum, is not longuer updated on github:
+
+[Download From Official Thread](https://opengamescommunity.com/index.php?resources/hellgrave-rpg-server-12-60.131/)
+
 [Discord Channel](https://discord.gg/QhPbQSAg)
 
 [GitHub issues](https://github.com/open-games-community/Hellgrave-rpg/issues)
 
 [GitHub pull request](https://github.com/open-games-community/hellgrave-rpg/pulls)
 
+
 ### MiniMap
 ![Hellgrave_8](https://user-images.githubusercontent.com/89811188/140897020-ce1a267c-c293-4f9e-9c81-ff0bb8c5c3c6.png)
 
 ### Pictures
+![1](https://user-images.githubusercontent.com/89811188/160930527-650ff8bb-c827-4149-a2f9-b1bb4ea31eec.png)
+![2](https://user-images.githubusercontent.com/89811188/160930546-f8a09965-b09e-440f-9766-91ccaf02ba33.png)
+![3](https://user-images.githubusercontent.com/89811188/160930553-3e8c8367-0ae5-440f-a02b-b76bc0629a93.png)
+![4](https://user-images.githubusercontent.com/89811188/160930570-6684f6bf-4e19-40f0-a501-001f51fd4920.png)
+![5](https://user-images.githubusercontent.com/89811188/160930575-0c0725eb-540b-4efe-bbaa-d13787998283.png)
+![6](https://user-images.githubusercontent.com/89811188/160930580-65d2c49c-c0fc-4fa8-bba0-558bf1ca12d2.png)
+![7](https://user-images.githubusercontent.com/89811188/160930590-d4b2dc64-888b-489c-822f-132ef665e4f9.png)
+![8](https://user-images.githubusercontent.com/89811188/160930599-dded9f35-2ec7-4f76-8860-527892ec9def.png)
+![9](https://user-images.githubusercontent.com/89811188/160930603-5427d674-0708-48f5-a237-71d76517ef41.png)
+![10](https://user-images.githubusercontent.com/89811188/160930607-f7ac57a5-3268-4b71-8dd7-84e712347772.png)
+![11](https://user-images.githubusercontent.com/89811188/160930619-ea4ff8ca-698c-455b-8364-b6f50e6c6e46.png)
+![12](https://user-images.githubusercontent.com/89811188/160930625-cd0ff192-b111-4332-8873-5e703b754ef9.png)
+![13](https://user-images.githubusercontent.com/89811188/160930636-0fe9431b-a676-4036-93a6-b5f77ddcdca4.png)
 [![1.png](https://i.postimg.cc/xTPtwGsQ/1.png)](https://postimg.cc/BXXTDF97)
 [![2.png](https://i.postimg.cc/Z57jRbtD/2.png)](https://postimg.cc/ts6FvHgh)
 [![3.png](https://i.postimg.cc/MGgD79G7/3.png)](https://postimg.cc/2qFhmFhy)
@@ -22,8 +42,9 @@
 
 ## Access **Hellgrave Mmorpg**
 
-  * Download our client here: https://github.com/Open-Games-Community/Hellgrave-Client
-  * Download ZnoteAAC compatible with server: https://github.com/Open-Games-Community/ZnoteAAC-Hellgrave-Server
+  * Server Up to Date on Forum! On Github is not longer updated!
+  * Download our Server from Official Thread: https://opengamescommunity.com/index.php?resources/hellgrave-rpg-server-12-60.131/
+  
 
 ### About **Hellgrave**
 
