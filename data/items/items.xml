@@ -36358,10 +36358,10 @@
 	<item id="25378" article="a" name="copper token" plural="copper tokens">
 		<attribute key="weight" value="200" />
 	</item>
-	<item id="25379" article="a" name="platinum token" plural="platinum tokens">
+	<item id="25379" article="a" name="Goshnar Teleporter" plural="Teleport To the Goshnar Treasure Room">
 		<attribute key="weight" value="200" />
 	</item>
-	<item id="25380" article="a" name="titanium token" plural="titanium tokens">
+	<item id="25380" article="a" name="Goshnar Treasure">
 		<attribute key="weight" value="200" />
 	</item>
 	<item id="25381" article="a" name="rift lamp">
@@ -37590,8 +37590,8 @@
 	<item id="26143" article="an" name="arena badger">
 		<attribute key="weight" value="100" />
 	</item>
-	<item id="26144" article="a" name="surprise cube">
-		<attribute key="description" value="There might be something valuable inside." />
+	<item id="26144" article="a" name="Goshnar Teleporter">
+		<attribute key="description" value="Teleport to Goshnar Treasure Room." />
 		<attribute key="weight" value="8500" />
 	</item>
 	<item id="26145" article="a" name="brown pit demon">

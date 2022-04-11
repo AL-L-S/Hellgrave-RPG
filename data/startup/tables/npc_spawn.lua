@@ -41,5 +41,6 @@ NpcTable = {
 	[40] = {name = "yasir", position = {x = 32506, y = 32905, z = 6}},
 	[41] = {name = "naji", position = {x = 32545, y = 32889, z = 7}},
     [42] = {name = "captain_bluebear", position = {x = 32593, y = 32477, z = 7}},
-	[43] = {name = "elyotrope", position = {x = 32370, y = 32315, z = 7}}
+	[43] = {name = "elyotrope", position = {x = 32370, y = 32315, z = 7}},
+	[44] = {name = "luvdik", position = {x = 32869, y = 31907, z = 8}}
 }
