@@ -1,8 +1,7 @@
 # Hellgrave Mmorpg
 
 Hellgrave RPG Server is a custom RPG Server created by Edisondario Team using the Otservbr base fork.
-Is now maintained by Open Games Community, see the latests Updates on our forum, please take not to download
-the server from forum, is not longuer updated on github:
+Is now maintained by Open Games Community, see the latests Updates on our forum, this version on github is only for further updates and issues:
 
 [Download From Official Thread](https://opengamescommunity.com/index.php?resources/hellgrave-rpg-server-12-60.131/)
 
