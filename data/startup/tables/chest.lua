@@ -127,13 +127,6 @@ ChestUnique = {
 		reward = {{2088, 1}},
 		storage = Storage.Quest.Key.ID3620
 	},
-	[5010] = {
-		isKey = true,
-		itemId = 1717,
-		itemPos = {x = 32411, y = 32155, z = 15},
-		reward = {{2088, 1}},
-		storage = Storage.Quest.Key.ID3620
-	},
 	[5011] = {
 		isKey = true,
 		itemId = 2720,
@@ -496,26 +489,6 @@ ChestUnique = {
 	},
 	-- TIme ring quest
 	-- Crystal ball
-	[6049] = {
-		itemId = 1740,
-		itemPos = {x = 33038, y = 32171, z = 9},
-		reward = {{2192, 1}},
-		storage = Storage.Quest.TimeRing.CrystalBall
-	},
-	-- Time ring
-	[6050] = {
-		itemId = 1740,
-		itemPos = {x = 33039, y = 32171, z = 9},
-		reward = {{2169, 1}},
-		storage = Storage.Quest.TimeRing.TimeRing
-	},
-	-- Elven amulet
-	[6051] = {
-		itemId = 1740,
-		itemPos = {x = 33040, y = 32171, z = 9},
-		reward = {{2198, 1}},
-		storage = Storage.Quest.TimeRing.ElvenAmulet
-	},
 	-- Behemoth quest
 	-- Guardian halberd
 	[6052] = {

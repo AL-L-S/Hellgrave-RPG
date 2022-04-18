@@ -20,6 +20,7 @@
 	<event class="Player" method="onLookInShop" enabled="0" />
 	<event class="Player" method="onMoveItem" enabled="1" /><!-- Protections on rewardsystem and global depots -->
 	<event class="Player" method="onItemMoved" enabled="0" />
+	<event class="Player" method="onChangeZone" enabled="1" />
 	<event class="Player" method="onMoveCreature" enabled="1" />
 	<event class="Player" method="onReportBug" enabled="1" />
 	<event class="Player" method="onReportRuleViolation" enabled="1" />
@@ -32,10 +33,6 @@
 	<event class="Player" method="onRequestQuestLog" enabled="1" />
 	<event class="Player" method="onRequestQuestLine" enabled="1" />
 	<event class="Player" method="onStorageUpdate" enabled="1" />
-	<!-- Imbuement System -->
-	<event class="Player" method="canBeAppliedImbuement" enabled="1" />
-	<event class="Player" method="onApplyImbuement" enabled="1" />
-	<event class="Player" method="clearImbuement" enabled="1" />
 	<event class="Player" method="onCombat" enabled="1" />
 
 	<event class="Creature" method="onDrainHealth" enabled="1" />

@@ -13,9 +13,9 @@ function Player.feed(self, food)
 
 		foodCondition:setTicks(food * 1000)
 		foodCondition:setParameter(CONDITION_PARAM_HEALTHGAIN, vocation:getHealthGainAmount())
-		foodCondition:setParameter(CONDITION_PARAM_HEALTHTICKS, vocation:getHealthGainTicks() * 1000)
+		foodCondition:setParameter(CONDITION_PARAM_HEALTHTICKS, vocation:getHealthGainTicks())
 		foodCondition:setParameter(CONDITION_PARAM_MANAGAIN, vocation:getManaGainAmount())
-		foodCondition:setParameter(CONDITION_PARAM_MANATICKS, vocation:getManaGainTicks() * 1000)
+		foodCondition:setParameter(CONDITION_PARAM_MANATICKS, vocation:getManaGainTicks())
 
 		self:addCondition(foodCondition)
 	end
@@ -57,7 +57,7 @@ function Player.sendCancelMessage(self, message)
 	if type(message) == "number" then
 		message = Game.getReturnMessage(message)
 	end
-	return self:sendTextMessage(MESSAGE_STATUS_SMALL, message)
+	return self:sendTextMessage(MESSAGE_FAILURE, message)
 end
 
 function Player.isUsingOtClient(self)

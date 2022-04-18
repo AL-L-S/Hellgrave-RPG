@@ -458,26 +458,26 @@ local function creatureSayCallback(cid, type, msg)
 			npcHandler:say("You did it! You put an end to the cults, and as a return, here's your reward.", cid)
 			npcHandler.topic[cid] = 9
 			local item = ""
-			if player:getVocation():getClientId() == VOCATION.CLIENT_ID.SORCERER then
+			if player:getVocation():getBaseId() == VOCATION.BASE_ID.SORCERER then
 				player:addItem(29426)
 				item = "reflecting crown"
 			end
-			if player:getVocation():getClientId() == VOCATION.CLIENT_ID.DRUID then
+			if player:getVocation():getBaseId() == VOCATION.BASE_ID.DRUID then
 				player:addItem(29423)
 				item = "leaf crown"
 			end
-			if player:getVocation():getClientId() == VOCATION.CLIENT_ID.PALADIN then
+			if player:getVocation():getBaseId() == VOCATION.BASE_ID.PALADIN then
 				player:addItem(29425)
 				item = "incandescent crown"
 			end
-			if player:getVocation():getClientId() == VOCATION.CLIENT_ID.KNIGHT then
+			if player:getVocation():getBaseId() == VOCATION.BASE_ID.KNIGHT then
 				player:addItem(29424)
 				item = "iron crown"
 			end
 			player:addExperience(50000)
 			player:addItem(29422)
 			player:setStorageValue(Storage.CultsOfTibia.FinalBoss.Mission, 3)
-			player:sendTextMessage(MESSAGE_EVENT_ADVANCE, "You gained 50000 experience points.")
+			player:sendTextMessage(MESSAGE_EXPERIENCE, "You gained 50000 experience points.")
 			player:sendTextMessage(MESSAGE_EVENT_ADVANCE, "You gained a mystery box.")
 			player:sendTextMessage(MESSAGE_EVENT_ADVANCE, "You gained a " .. item .. ".")
 		else
@@ -497,7 +497,7 @@ local function creatureSayCallback(cid, type, msg)
 				npcHandler:say(missionsTable.completeText, cid)
 				player:setStorageValue(storage[cid], player:getStorageValue(storage[cid]) + 1)
 				player:addExperience(rewardExperience[cid])
-				player:sendTextMessage(MESSAGE_EVENT_ADVANCE, "You gained " .. rewardExperience[cid] .. " experience points.")
+				player:sendTextMessage(MESSAGE_EXPERIENCE, "You gained " .. rewardExperience[cid] .. " experience points.")
 				npcHandler.topic[cid] = 0
 
 			elseif player:getStorageValue(storage[cid]) > 0 and player:getStorageValue(storage[cid]) > value[cid] then

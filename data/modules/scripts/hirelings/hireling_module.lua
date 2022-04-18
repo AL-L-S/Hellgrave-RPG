@@ -1,7 +1,7 @@
 HirelingModule = {}
 
 HirelingModule.Credits = {
-	Developer = 'Hellgrave',
+	Developer = 'Leonardo "Leu" Pereira (jlcvp)',
 	Version = "1.0",
 	Date = "30/04/2020 "
 }

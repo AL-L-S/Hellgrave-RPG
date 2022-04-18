@@ -1,26 +1,31 @@
 -- Minlevel and multiplier are MANDATORY
 -- Maxlevel is OPTIONAL, but is considered infinite by default
 -- Create a stage with minlevel 1 and no maxlevel to disable stages
+
+-- HELLGRAVE RPG was tested for start from 150x and decreasing, level 100 - x50, 200 x25 , 300 x18 ( Before 200x to level 300 x 10 ), 400 x12, 500+ x6.
+-- You can adjust your own rate stages.
+
+-- Important: Loot was tested x2 and not x3, x3 is to higher for a low custom RPG server! Remember before start your server, if you set x3 everyone become rich very fast.
 experienceStages = {
 	{
 		minlevel = 1,
 		maxlevel = 8,
-		multiplier = 25
+		multiplier = 7
 	}, {
 		minlevel = 9,
 		maxlevel = 20,
-		multiplier = 50
+		multiplier = 6
 	}, {
 		minlevel = 21,
 		maxlevel = 50,
-		multiplier = 40
+		multiplier = 5
 	}, {
 		minlevel = 51,
 		maxlevel = 100,
-		multiplier = 20
+		multiplier = 4
 	}, {
 		minlevel = 101,
-		multiplier = 15
+		multiplier = 2
 	}
 }
 
@@ -28,11 +33,11 @@ skillsStages = {
 	{
 		minlevel = 10,
 		maxlevel = 60,
-		multiplier = 12
+		multiplier = 15
 	}, {
 		minlevel = 61,
 		maxlevel = 80,
-		multiplier = 8
+		multiplier = 10
 	}, {
 		minlevel = 81,
 		maxlevel = 110,

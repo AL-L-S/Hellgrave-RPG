@@ -98,7 +98,7 @@ function KeywordHandler:addSpellKeyword(keys, parameters)
 	local spellKeyword = self:addKeyword(keys, StdModule.say, {npcHandler = npcHandler, text = string.format("Do you want to learn the spell '%s' for %s?", spellName, price > 0 and price .. ' gold' or 'free')},
 		function(player)
 			-- This will register for all client id vocations
-			local vocationClientId = player:getVocation():getClientId()
+			local vocationClientId = player:getVocation():getBaseId()
 			if type(vocationId) == 'table' then
 				return table.contains(vocationId, vocationClientId)
 			else
@@ -227,7 +227,7 @@ function Player.removeMoneyNpc(self, amount)
 		-- Removes player inventory money
 		self:removeMoney(amount)
 
-		self:sendTextMessage(MESSAGE_INFO_DESCR, ("Paid %d gold from inventory."):format(amount))
+		self:sendTextMessage(MESSAGE_TRADE, ("Paid %d gold from inventory."):format(amount))
 		return true
 
 	-- The player doens't have all the money with him
@@ -242,12 +242,12 @@ function Player.removeMoneyNpc(self, amount)
 			-- Removes player bank money
 			self:setBankBalance(bankCount - remains)
 
-			self:sendTextMessage(MESSAGE_INFO_DESCR, ("Paid %d from inventory and %d gold from bank account. Your account balance is now %d gold."):format(moneyCount, amount - moneyCount, self:getBankBalance()))
+			self:sendTextMessage(MESSAGE_TRADE, ("Paid %d from inventory and %d gold from bank account. Your account balance is now %d gold."):format(moneyCount, amount - moneyCount, self:getBankBalance()))
 			return true
 
 		else
 			self:setBankBalance(bankCount - amount)
-			self:sendTextMessage(MESSAGE_INFO_DESCR, ("Paid %d gold from bank account. Your account balance is now %d gold."):format(amount, self:getBankBalance()))
+			self:sendTextMessage(MESSAGE_TRADE, ("Paid %d gold from bank account. Your account balance is now %d gold."):format(amount, self:getBankBalance()))
 			return true
 		end
 	end

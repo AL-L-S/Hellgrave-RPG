@@ -4,7 +4,7 @@ function Creature:onChangeOutfit(outfit)
 		local familiarLookType = self:getFamiliarLooktype()
 		if familiarLookType ~= 0 then
 			for _, summon in pairs(self:getSummons()) do
-				if summon:getType():isPet() then
+				if summon:getType():familiar() then
 						if summon:getOutfit().lookType ~= familiarLookType then
 							summon:setOutfit({lookType = familiarLookType})
 						end
@@ -119,6 +119,8 @@ function Creature:onTargetCombat(target)
 			end
 		end
 	end
+
+	self:addEventStamina(target)
 	return true
 end
 

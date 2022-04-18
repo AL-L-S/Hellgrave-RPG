@@ -810,6 +810,20 @@ local function setNewTradeTable(table)
 	return items
 end
 
+local function onSell(cid, item, subType, amount, ignoreCap, inBackpacks)
+	local player = Player(cid)
+	local creatureId = Creature(cid):getId()
+	local items = setNewTradeTable(getTable(creatureId))
+
+	if items[item].sellPrice and player:removeItem(items[item].itemId, amount) then
+		player:addMoney(items[item].sellPrice * amount)
+		return player:sendTextMessage(MESSAGE_LOOK, 'Sold '..amount..'x '..items[item].realName..' for '..items[item].sellPrice * amount..' gold coins.')
+	end
+
+	selfSay("You don't have item to sell.", cid)
+	return true
+end
+
 local function onBuy(cid, item, subType, amount, ignoreCap, inBackpacks)
 	local player = Player(cid)
 	local creatureId = Creature(cid):getId()
@@ -824,13 +838,13 @@ local function onBuy(cid, item, subType, amount, ignoreCap, inBackpacks)
 		return false
 	end
 	if not ignoreCap and player:getFreeCapacity() < itemType:getWeight(amount) then
-		return player:sendTextMessage(MESSAGE_INFO_DESCR, 'You don\'t have enough cap.')
+		return player:sendTextMessage(MESSAGE_FAILURE, 'You don\'t have enough cap.')
 	end
 	if not player:removeMoneyNpc(items[item].buyPrice * amount) then
 		selfSay("You don't have enough money.", cid)
 	else
 		player:addItem(itemType:getId(), amount, true, subType)
-		return player:sendTextMessage(MESSAGE_INFO_DESCR, 'Bought '..amount..'x '..items[item].realName..' for '..items[item].buyPrice * amount..' gold coins.')
+		return player:sendTextMessage(MESSAGE_LOOK, 'Bought '..amount..'x '..items[item].realName..' for '..items[item].buyPrice * amount..' gold coins.')
 	end
 	return true
 end
@@ -1034,7 +1048,7 @@ local function creatureSayCallback(cid, type, msg)
 		elseif msgcontains(msg, "stash") then
 			if hireling:hasSkill(HIRELING_SKILLS.STEWARD) then
 				npcHandler:say(GREETINGS.STASH, cid)
-				player:OpenStash()
+				player:openStash(true)
 			else
 				sendSkillNotLearned(cid, HIRELING_SKILLS.STEWARD)
 			end

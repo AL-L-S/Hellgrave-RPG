@@ -101,7 +101,7 @@ end
 GameStore.ClientOfferTypes = {
 	CLIENT_STORE_OFFER_OTHER = 0,
 	CLIENT_STORE_OFFER_NAMECHANGE = 1,
-	CLIENT_STORE_OFFER_HIRELING = 10,
+	CLIENT_STORE_OFFER_HIRELING = 3,
 }
 
 GameStore.HistoryTypes = {
@@ -411,7 +411,7 @@ function parseBuyStoreOffer(playerId, msg)
 
 	if not pcallError.code then -- unhandled error
 		-- log some debugging info
-		print(string.format("Gamestore: Purchase failed due to an unhandled script error. \n\tStacktrace: %s\n", pcallError))
+		Spdlog.warn("[parseBuyStoreOffer] - Purchase failed due to an unhandled script error. Stacktrace: ".. pcallError)
 	end
 
 		return queueSendStoreAlertToUser(alertMessage, 500, playerId)
@@ -1247,6 +1247,7 @@ function GameStore.processItemPurchase(player, offerId, offerCount)
 		return error({ code = 0, message = "Please make sure you have free slots in your store inbox."})
 	end
 end
+
 function GameStore.processChargesPurchase(player, itemtype, name, charges)
 	if player:getFreeCapacity() < ItemType(itemtype):getWeight(1) then
 		return error({ code = 0, message = "Please make sure you have free capacity to hold this item."})
