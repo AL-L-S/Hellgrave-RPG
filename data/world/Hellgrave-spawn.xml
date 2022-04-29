@@ -20960,8 +20960,14 @@
 	<spawn centerx="32046" centery="32355" centerz="10" radius="1">
 		<monster name="Grim Reaper" x="0" y="0" z="10" spawntime="60" />
 	</spawn>
+	<spawn centerx="32511" centery="32356" centerz="10" radius="1">
+		<monster name="Arachnophobica" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
 	<spawn centerx="32576" centery="32356" centerz="10" radius="1">
 		<monster name="Giant Spider" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="32497" centery="32359" centerz="10" radius="1">
+		<monster name="Arachnophobica" x="0" y="0" z="10" spawntime="60" />
 	</spawn>
 	<spawn centerx="32628" centery="32361" centerz="10" radius="1">
 		<monster name="Giant Spider" x="0" y="0" z="10" spawntime="60" />
@@ -20971,6 +20977,9 @@
 	</spawn>
 	<spawn centerx="32329" centery="32368" centerz="10" radius="1">
 		<monster name="Dragonling" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="32520" centery="32368" centerz="10" radius="1">
+		<monster name="Arachnophobica" x="0" y="0" z="10" spawntime="60" />
 	</spawn>
 	<spawn centerx="32036" centery="32369" centerz="10" radius="1">
 		<monster name="Grim Reaper" x="0" y="0" z="10" spawntime="60" />
@@ -21939,14 +21948,41 @@
 	<spawn centerx="31971" centery="32314" centerz="11" radius="1">
 		<monster name="Efreet" x="0" y="0" z="11" spawntime="60" />
 	</spawn>
+	<spawn centerx="32521" centery="32325" centerz="11" radius="1">
+		<monster name="Arachnophobica" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="32511" centery="32328" centerz="11" radius="1">
+		<monster name="Arachnophobica" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="32509" centery="32344" centerz="11" radius="1">
+		<monster name="Arachnophobica" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="32545" centery="32346" centerz="11" radius="1">
+		<monster name="Arachnophobica" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="32536" centery="32348" centerz="11" radius="1">
+		<monster name="Arachnophobica" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="32497" centery="32350" centerz="11" radius="1">
+		<monster name="Arachnophobica" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
 	<spawn centerx="32135" centery="32357" centerz="11" radius="1">
 		<monster name="Metal Gargoyle" x="0" y="0" z="11" spawntime="60" />
 	</spawn>
 	<spawn centerx="32133" centery="32358" centerz="11" radius="1">
 		<monster name="Blood Beast" x="0" y="0" z="11" spawntime="60" />
 	</spawn>
+	<spawn centerx="32486" centery="32362" centerz="11" radius="1">
+		<monster name="Arachnophobica" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
 	<spawn centerx="32134" centery="32363" centerz="11" radius="1">
 		<monster name="Glooth Anemone" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="32468" centery="32363" centerz="11" radius="1">
+		<monster name="Arachnophobica" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="32554" centery="32365" centerz="11" radius="1">
+		<monster name="Arachnophobica" x="0" y="0" z="11" spawntime="60" />
 	</spawn>
 	<spawn centerx="32144" centery="32366" centerz="11" radius="1">
 		<monster name="Glooth Anemone" x="0" y="0" z="11" spawntime="60" />
@@ -21954,14 +21990,23 @@
 	<spawn centerx="32147" centery="32366" centerz="11" radius="1">
 		<monster name="Blood Beast" x="0" y="0" z="11" spawntime="60" />
 	</spawn>
+	<spawn centerx="32470" centery="32366" centerz="11" radius="1">
+		<monster name="Arachnophobica" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
 	<spawn centerx="32133" centery="32367" centerz="11" radius="1">
 		<monster name="Blood Beast" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="32546" centery="32368" centerz="11" radius="1">
+		<monster name="Arachnophobica" x="0" y="0" z="11" spawntime="60" />
 	</spawn>
 	<spawn centerx="32134" centery="32369" centerz="11" radius="1">
 		<monster name="Metal Gargoyle" x="0" y="0" z="11" spawntime="60" />
 	</spawn>
 	<spawn centerx="32145" centery="32369" centerz="11" radius="1">
 		<monster name="Metal Gargoyle" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="32529" centery="32373" centerz="11" radius="1">
+		<monster name="Arachnophobica" x="0" y="0" z="11" spawntime="60" />
 	</spawn>
 	<spawn centerx="31721" centery="32374" centerz="11" radius="1">
 		<monster name="Omruc" x="0" y="0" z="11" spawntime="60" />
@@ -21974,6 +22019,9 @@
 	</spawn>
 	<spawn centerx="31723" centery="32377" centerz="11" radius="1">
 		<monster name="Ashmunrah" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="32501" centery="32377" centerz="11" radius="1">
+		<monster name="Arachnophobica" x="0" y="0" z="11" spawntime="60" />
 	</spawn>
 	<spawn centerx="32133" centery="32380" centerz="11" radius="1">
 		<monster name="Blood Beast" x="0" y="0" z="11" spawntime="60" />
@@ -22004,6 +22052,9 @@
 	</spawn>
 	<spawn centerx="32160" centery="32386" centerz="11" radius="1">
 		<monster name="Glooth Anemone" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="32508" centery="32386" centerz="11" radius="1">
+		<monster name="Arachnophobica" x="0" y="0" z="11" spawntime="60" />
 	</spawn>
 	<spawn centerx="32132" centery="32391" centerz="11" radius="1">
 		<monster name="Metal Gargoyle" x="0" y="0" z="11" spawntime="60" />
@@ -22044,6 +22095,9 @@
 	<spawn centerx="32395" centery="32398" centerz="11" radius="1">
 		<monster name="Dark Faun" x="0" y="0" z="11" spawntime="60" />
 	</spawn>
+	<spawn centerx="32535" centery="32398" centerz="11" radius="1">
+		<monster name="Arachnophobica" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
 	<spawn centerx="32135" centery="32399" centerz="11" radius="1">
 		<monster name="Glooth Anemone" x="0" y="0" z="11" spawntime="60" />
 	</spawn>
@@ -22052,6 +22106,9 @@
 	</spawn>
 	<spawn centerx="32398" centery="32399" centerz="11" radius="1">
 		<monster name="Boogy" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="32543" centery="32399" centerz="11" radius="1">
+		<monster name="Arachnophobica" x="0" y="0" z="11" spawntime="60" />
 	</spawn>
 	<spawn centerx="31916" centery="32400" centerz="11" radius="8">
 		<monster name="Defiler" x="-2" y="-2" z="11" spawntime="60" />
