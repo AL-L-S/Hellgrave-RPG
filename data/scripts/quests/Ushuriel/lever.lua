@@ -16,7 +16,7 @@ local player_positions = {
 }
 
 local monsters = {
-    [1] = {pos = Position(32153, 32668, 10), name = "Ushuriel"}
+    [1] = {pos = Position(32602, 32106, 13), name = "Ushuriel"}
 
 }
 local quest_range = {fromPos = Position(33484, 31430, 13), toPos = Position(33496, 31441, 13)} -- see image in thread for explanation
