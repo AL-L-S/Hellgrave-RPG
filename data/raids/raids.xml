@@ -10,7 +10,7 @@
 	<!-- Freewind -->
 	<raid name="BarbaBitter" file="freewind/barba_bittermor.xml" interval2="500" margin="40" />
 	<raid name="Ghazbaran" file="freewind/ghazbaran.xml" interval2="1440" margin="100" />
-	<raid name="Zushuka" file="freewind/zushuka.xml" interval2="6000" margin="60"/>
+	<raid name="Zushuka" file="freewind/zushuka.xml" interval2="2000" margin="60"/>
 	<!-- Falanaar -->
 	<raid name="Midnight Panther" file="falanaar/midnight_panther.xml" interval2="280" margin="20"/>
 	<raid name="Ferumbras" file="falanaar/ferumbras.xml" interval2="1440" margin="120" />
@@ -19,4 +19,5 @@
 	<raid name="Crustacea Gigantica" file="dolwatha/crustacea_gigantica.xml" interval2="300" margin="20"/>
 	<raid name="Morgaroth" file="dolwatha/morgaroth.xml" interval2="1440" margin="90" />
 	<raid name="Orshabaal" file="dolwatha/orshabaal.xml" interval2="1440" margin="100" />
+	<raid name="Gaffir" file="dolwatha/gaffir.xml" interval2="740" margin="100" />
 </raids>
