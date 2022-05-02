@@ -4082,7 +4082,7 @@ local weapons = {
 	{
 		itemId = 2389,
 		type = WEAPON_DISTANCE,
-		breakChance = 3
+		breakChance = 0
 	}, -- spear
 	{
 		itemId = 2388,

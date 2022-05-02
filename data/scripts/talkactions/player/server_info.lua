@@ -11,7 +11,7 @@ function serverInfo.onSay(player, words, param)
 	.. "\nShield Skill rate: " .. getRateFromTable(skillsStages, player:getSkillLevel(SKILL_SHIELD), configRateSkill)
 	.. "\nFist Skill rate: " .. getRateFromTable(skillsStages, player:getSkillLevel(SKILL_FIST), configRateSkill)
 	.. "\nMagic rate: " .. getRateFromTable(magicLevelStages, player:getBaseMagicLevel(), configManager.getNumber(configKeys.RATE_MAGIC))
-	.. "\nLoot rate: " .. configManager.getNumber(configKeys.RATE_LOOT))
+	.. "\nLoot rate: " .. configManager.getNumber(configKeys.RATE_SKILL))
 	return false
 end
 
