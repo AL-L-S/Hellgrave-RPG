@@ -3507,7 +3507,7 @@
 	</spawn>
 	<spawn centerx="32644" centery="32669" centerz="6" radius="5" />
 	<spawn centerx="32703" centery="32670" centerz="6" radius="5">
-		<monster name="Frost Dragon" x="2" y="-3" z="6" spawntime="60" />
+		<monster name="Frost Dragon" x="2" y="-2" z="6" spawntime="60" />
 		<monster name="Ice Golem" x="2" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="32055" centery="32672" centerz="6" radius="1">
@@ -3698,13 +3698,13 @@
 	<spawn centerx="32063" centery="32708" centerz="6" radius="1">
 		<monster name="Wyrm" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="32661" centery="32709" centerz="6" radius="5" />
+	<spawn centerx="32662" centery="32709" centerz="6" radius="5" />
 	<spawn centerx="32670" centery="32709" centerz="6" radius="5" />
 	<spawn centerx="32042" centery="32710" centerz="6" radius="1">
 		<monster name="Wyrm" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="32654" centery="32710" centerz="6" radius="5">
-		<monster name="Frost Dragon" x="0" y="3" z="6" spawntime="60" />
+	<spawn centerx="32653" centery="32710" centerz="6" radius="5">
+		<monster name="Frost Dragon" x="1" y="3" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="32060" centery="32711" centerz="6" radius="1">
 		<monster name="Wyrm" x="0" y="0" z="6" spawntime="60" />
@@ -3792,7 +3792,7 @@
 		<monster name="Chakoya Toolshaper" x="-3" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="32255" centery="32775" centerz="6" radius="1">
-		<monster name="Frost Dragon" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Frost Dragon" x="-1" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="32306" centery="32779" centerz="6" radius="1">
 		<monster name="Frost Dragon" x="1" y="1" z="6" spawntime="60" />
@@ -3827,8 +3827,8 @@
 		<monster name="Ice Golem" x="2" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="32487" centery="32795" centerz="6" radius="10">
-		<monster name="Chakoya Windcaller" x="1" y="-10" z="6" spawntime="60" />
 		<monster name="Chakoya Windcaller" x="-10" y="-9" z="6" spawntime="60" />
+		<monster name="Chakoya Windcaller" x="1" y="-9" z="6" spawntime="60" />
 		<monster name="Chakoya Toolshaper" x="5" y="-6" z="6" spawntime="60" />
 		<monster name="Chakoya Toolshaper" x="-3" y="-4" z="6" spawntime="60" />
 		<monster name="Chakoya Toolshaper" x="-5" y="-1" z="6" spawntime="60" />
@@ -3906,7 +3906,7 @@
 		<monster name="Chakoya Tribewarden" x="2" y="6" z="6" spawntime="60" />
 		<monster name="Chakoya Windcaller" x="8" y="8" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="32505" centery="32852" centerz="6" radius="1" />
+	<spawn centerx="32504" centery="32852" centerz="6" radius="1" />
 	<spawn centerx="32492" centery="32901" centerz="6" radius="1" />
 	<spawn centerx="32506" centery="32906" centerz="6" radius="1" />
 	<spawn centerx="32492" centery="32914" centerz="6" radius="1">
