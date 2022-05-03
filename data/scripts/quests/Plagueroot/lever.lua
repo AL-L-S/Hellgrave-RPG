@@ -22,7 +22,7 @@ local quest_range = {fromPos = Position(33484, 31430, 13), toPos = Position(3349
 
 local exit_position = Position(33490, 31430, 13) -- Position completely outside the quest area
 
-local lever = Action()
+local plagueroot = Action()
 
 function doResetTheBossDukeKrule(position, cid_array)
  
@@ -79,7 +79,7 @@ local specs, spec = Game.getSpectators(Position(33919, 31646, 8), false, false, 
     end
 end
 
-function lever.onUse(player, item, fromPosition, target, toPosition, isHotkey)
+function plagueroot.onUse(player, item, fromPosition, target, toPosition, isHotkey)
     if player:getStorageValue(config.cooldown_storage) >= os.time() then
         player:sendTextMessage(MESSAGE_INFO_DESCR, "Try Again in 4 Hours.")
         return true
@@ -146,5 +146,5 @@ function lever.onUse(player, item, fromPosition, target, toPosition, isHotkey)
     return true
 end
 
-lever:uid(30032)
-lever:register()
+plagueroot:uid(30032)
+plagueroot:register()

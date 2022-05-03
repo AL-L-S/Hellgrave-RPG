@@ -22,7 +22,7 @@ local quest_range = {fromPos = Position(31856, 32206, 9), toPos = Position(31868
 
 local exit_position = Position(31862, 32236, 9) -- Position completely outside the quest area
 
-local goshnarCruelty = Action()
+local grandMasterOberon = Action()
 
 function doResetTheBossDukeKrule(position, cid_array)
  
@@ -79,7 +79,7 @@ local specs, spec = Game.getSpectators(Position(33919, 31646, 8), false, false, 
     end
 end
 
-function goshnarCruelty.onUse(player, item, fromPosition, target, toPosition, isHotkey)
+function grandMasterOberon.onUse(player, item, fromPosition, target, toPosition, isHotkey)
     if player:getStorageValue(config.cooldown_storage) >= os.time() then
         player:sendTextMessage(MESSAGE_INFO_DESCR, "Try Again in 4 Hours.")
         return true
@@ -146,5 +146,5 @@ function goshnarCruelty.onUse(player, item, fromPosition, target, toPosition, is
     return true
 end
 
-goshnarCruelty:uid(42702)
-goshnarCruelty:register()
+grandMasterOberon:uid(42702)
+grandMasterOberon:register()

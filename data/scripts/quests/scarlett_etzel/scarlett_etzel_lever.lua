@@ -22,7 +22,7 @@ local quest_range = {fromPos = Position(32087, 32239, 6), toPos = Position(32097
 
 local exit_position = Position(33044, 32193, 6) -- Position completely outside the quest area
 
-local goshnarCruelty = Action()
+local scarlettEtzel = Action()
 
 function doResetTheBossDukeKrule(position, cid_array)
  
@@ -79,7 +79,7 @@ local specs, spec = Game.getSpectators(Position(33919, 31646, 8), false, false, 
     end
 end
 
-function goshnarCruelty.onUse(player, item, fromPosition, target, toPosition, isHotkey)
+function scarlettEtzel.onUse(player, item, fromPosition, target, toPosition, isHotkey)
     if player:getStorageValue(config.cooldown_storage) >= os.time() then
         player:sendTextMessage(MESSAGE_INFO_DESCR, "Try Again in 4 Hours.")
         return true
@@ -146,5 +146,5 @@ function goshnarCruelty.onUse(player, item, fromPosition, target, toPosition, is
     return true
 end
 
-goshnarCruelty:uid(42701)
-goshnarCruelty:register()
+scarlettEtzel:uid(42701)
+scarlettEtzel:register()

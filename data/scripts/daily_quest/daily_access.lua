@@ -23,7 +23,7 @@ local quest_range = {fromPos = Position(31863, 31988, 8), toPos = Position(31874
 
 local exit_position = Position(32215, 32268, 6) -- Position completely outside the quest area
 
-local earthArena = Action()
+local dailyQuest = Action()
 
 function doResetTheBossDukeKrule(position, cid_array)
  
@@ -80,7 +80,7 @@ local specs, spec = Game.getSpectators(Position(33919, 31646, 8), false, false, 
     end
 end
 
-function earthArena.onUse(player, item, fromPosition, target, toPosition, isHotkey)
+function dailyQuest.onUse(player, item, fromPosition, target, toPosition, isHotkey)
     if player:getStorageValue(config.cooldown_storage) >= os.time() then
         player:sendTextMessage(MESSAGE_INFO_DESCR, "Try Again in 24 Hours.")
         return true
@@ -147,5 +147,5 @@ function earthArena.onUse(player, item, fromPosition, target, toPosition, isHotk
     return true
 end
 
-earthArena:uid(41389)
-earthArena:register()
+dailyQuest:uid(41389)
+dailyQuest:register()

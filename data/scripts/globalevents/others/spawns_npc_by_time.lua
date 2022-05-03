@@ -17,21 +17,21 @@ local spawns = {
 		name = "Ghostly Wolf",
 		spawn = LIGHT_STATE_SUNSET,
 		despawn = LIGHT_STATE_SUNRISE,
-		position = { x = 33332, y = 32052, z = 7 }
+		position = { x = 31915, y = 32418, z = 6 }
 	},
 	[2] = { -- spawn in night
 		id = "talila",
 		name = "Talila",
 		spawn = LIGHT_STATE_SUNSET,
 		despawn = LIGHT_STATE_SUNRISE,
-		position = { x=33504 , y=32222 , z=7 }
+		position = { x=31887 , y=32426 , z=7 }
 	},
 	[3] = { -- spawn in day
 		id = "valindara",
 		name = "Valindara",
 		spawn = LIGHT_STATE_SUNRISE,
 		despawn = LIGHT_STATE_SUNSET,
-		position = { x=33504 , y=32222 , z=7 }
+		position = { x=31912 , y=32420 , z=7 }
 	}
 }
 
