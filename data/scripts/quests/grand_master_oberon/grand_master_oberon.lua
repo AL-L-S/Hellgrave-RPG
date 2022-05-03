@@ -1,6 +1,6 @@
 local config = {
     cooldown = 60 * 60 * 24, -- in seconds - (Make it 'seconds * minutes * hours' - its will be '60 * 60 * 20' for 20 hours) (player cooldown)
-    cooldown_storage = 809001,
+    cooldown_storage = 809003,
     duration = 20, -- time till reset, in minutes (lever cooldown)
     level_req = 150, -- minimum level to do quest
     min_players = 1, -- minimum players to join quest
@@ -9,18 +9,18 @@ local config = {
 }
 
 local player_positions = {
-    [1] = {fromPos = Position(32087, 32262, 6), toPos = Position(32086, 32256, 6)},
-    [2] = {fromPos = Position(32087, 32263, 6), toPos = Position(32087, 32256, 6)},
-    [3] = {fromPos = Position(32087, 32264, 6), toPos = Position(32088, 32256, 6)},
-    [4] = {fromPos = Position(32087, 32265, 6), toPos = Position(32089, 32256, 6)}
+    [1] = {fromPos = Position(31862, 32234, 9), toPos = Position(31867, 32211, 9)},
+    [2] = {fromPos = Position(31862, 32235, 9), toPos = Position(31867, 32212, 9)},
+    [3] = {fromPos = Position(31862, 32236, 9), toPos = Position(31867, 32213, 9)},
+    [4] = {fromPos = Position(31862, 32237, 9), toPos = Position(31867, 32214, 9)}
 }
 
 local monsters = {
-    [1] = {pos = Position(32088, 32241, 6), name = "scarlett etzel"}
+    [1] = {pos = Position(31861, 32208, 9), name = "Grand Master Oberon"}
 }
-local quest_range = {fromPos = Position(32087, 32239, 6), toPos = Position(32097, 32259, 6)} -- see image in thread for explanation
+local quest_range = {fromPos = Position(31856, 32206, 9), toPos = Position(31868, 32215, 9)} -- see image in thread for explanation
 
-local exit_position = Position(33044, 32193, 6) -- Position completely outside the quest area
+local exit_position = Position(31862, 32236, 9) -- Position completely outside the quest area
 
 local goshnarCruelty = Action()
 
@@ -73,7 +73,7 @@ local function removeBoss()
 local specs, spec = Game.getSpectators(Position(33919, 31646, 8), false, false, 18, 18, 18, 18)
     for j = 1, #specs do
         spec = specs[j]
-        if spec:getName():lower() == 'scarlett etzel' then
+        if spec:getName():lower() == 'Grand Master Oberon' then
             spec:remove()
         end
     end
@@ -91,7 +91,7 @@ function goshnarCruelty.onUse(player, item, fromPosition, target, toPosition, is
         local fromPos = player_positions[i].fromPos
         local tile = Tile(fromPos)
         if not tile then
-            print(">> ERROR: Scarlett Etzel tile does not exist for Position(" .. fromPos.x .. ", " .. fromPos.y .. ", " .. fromPos.z .. ").")
+            print(">> ERROR: Grand Master Oberon tile does not exist for Position(" .. fromPos.x .. ", " .. fromPos.y .. ", " .. fromPos.z .. ").")
             return player:sendCancelMessage("There is an issue with this quest. Please contact an administrator.")
         end
  
@@ -125,7 +125,7 @@ function goshnarCruelty.onUse(player, item, fromPosition, target, toPosition, is
     for i = 1, #monsters do
         local toPos = monsters[i].pos
         if not Tile(toPos) then
-            print(">> ERROR: Scarlett Etzel tile does not exist for Position(" .. toPos.x .. ", " .. toPos.y .. ", " .. toPos.z .. ").")
+            print(">> ERROR: Grand Master Oberon tile does not exist for Position(" .. toPos.x .. ", " .. toPos.y .. ", " .. toPos.z .. ").")
             return player:sendCancelMessage("There is an issue with this quest. Please contact an administrator.")
         end
         removeBoss()
@@ -146,5 +146,5 @@ function goshnarCruelty.onUse(player, item, fromPosition, target, toPosition, is
     return true
 end
 
-goshnarCruelty:uid(42701)
+goshnarCruelty:uid(42702)
 goshnarCruelty:register()
