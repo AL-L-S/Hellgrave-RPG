@@ -46,10 +46,9 @@ NpcTable = {
 	[45] = {name = "eruaran", position = {x = 31863, y = 32407, z = 10}},
 	[46] = {name = "stratios", position = {x = 32368, y = 32243, z = 7}},
 	[47] = {name = "alexander", position = {x = 32346, y = 32204, z = 7}},
-	[48] = {name = "augustin", position = {x = 32354, y = 32204, z = 7}},
-	[49] = {name = "briasol", position = {x = 32346, y = 32206, z = 6}},
-	[50] = {name = "telas", position = {x = 32355, y = 32206, z = 6}},
-	[51] = {name = "alaistar", position = {x = 32347, y = 32204, z = 5}},
-	[52] = {name = "hjaern", position = {x = 32356, y = 32204, z = 5}}
+	[48] = {name = "briasol", position = {x = 32346, y = 32206, z = 6}},
+	[49] = {name = "telas", position = {x = 32355, y = 32206, z = 6}},
+	[50] = {name = "alaistar", position = {x = 32347, y = 32204, z = 5}},
+	[51] = {name = "hjaern", position = {x = 32356, y = 32204, z = 5}}
 	
 }

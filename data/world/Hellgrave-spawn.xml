@@ -938,6 +938,12 @@
 		<monster name="Cobra Scout" x="-3" y="-3" z="4" spawntime="60" />
 		<monster name="Cobra Scout" x="-2" y="3" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="31593" centery="32259" centerz="4" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="120" />
+	</spawn>
+	<spawn centerx="31585" centery="32261" centerz="4" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="-1" z="4" spawntime="120" />
+	</spawn>
 	<spawn centerx="31818" centery="32263" centerz="4" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
@@ -948,6 +954,9 @@
 		<monster name="Cobra Vizier" x="-3" y="-2" z="4" spawntime="60" />
 		<monster name="Cobra Assassin" x="2" y="-2" z="4" spawntime="60" />
 		<monster name="Cobra Vizier" x="-3" y="3" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="31582" centery="32264" centerz="4" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="120" />
 	</spawn>
 	<spawn centerx="32092" centery="32265" centerz="4" radius="3">
 		<monster name="Cobra Assassin" x="3" y="-3" z="4" spawntime="60" />
@@ -961,11 +970,17 @@
 	<spawn centerx="31820" centery="32267" centerz="4" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="31581" centery="32269" centerz="4" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="4" spawntime="120" />
+	</spawn>
 	<spawn centerx="32071" centery="32272" centerz="4" radius="3" />
 	<spawn centerx="32078" centery="32272" centerz="4" radius="3">
 		<monster name="Cobra Vizier" x="2" y="-3" z="4" spawntime="60" />
 		<monster name="Cobra Scout" x="2" y="2" z="4" spawntime="60" />
 		<monster name="Cobra Vizier" x="-3" y="3" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="31582" centery="32274" centerz="4" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="4" spawntime="120" />
 	</spawn>
 	<spawn centerx="31773" centery="32274" centerz="4" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="4" spawntime="60" />
@@ -988,6 +1003,9 @@
 	</spawn>
 	<spawn centerx="32078" centery="32279" centerz="4" radius="3" />
 	<spawn centerx="32085" centery="32279" centerz="4" radius="3" />
+	<spawn centerx="31580" centery="32280" centerz="4" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="120" />
+	</spawn>
 	<spawn centerx="31770" centery="32281" centerz="4" radius="1">
 		<monster name="Cyclops Drone" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
@@ -1000,6 +1018,15 @@
 	<spawn centerx="31786" centery="32282" centerz="4" radius="1">
 		<monster name="Cyclops Smith" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="31587" centery="32283" centerz="4" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="4" spawntime="120" />
+	</spawn>
+	<spawn centerx="31592" centery="32283" centerz="4" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="4" spawntime="120" />
+	</spawn>
+	<spawn centerx="31596" centery="32283" centerz="4" radius="1">
+		<monster name="Pirat Scoundrel" x="-1" y="0" z="4" spawntime="120" />
+	</spawn>
 	<spawn centerx="31776" centery="32283" centerz="4" radius="1">
 		<monster name="Cyclops Smith" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
@@ -1009,11 +1036,20 @@
 	<spawn centerx="31796" centery="32285" centerz="4" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="31580" centery="32286" centerz="4" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="4" spawntime="120" />
+	</spawn>
 	<spawn centerx="31772" centery="32287" centerz="4" radius="1">
 		<monster name="Cyclops Drone" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="31821" centery="32287" centerz="4" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="31604" centery="32289" centerz="4" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="4" spawntime="120" />
+	</spawn>
+	<spawn centerx="31587" centery="32292" centerz="4" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="4" spawntime="120" />
 	</spawn>
 	<spawn centerx="31799" centery="32292" centerz="4" radius="1">
 		<monster name="Cyclops Smith" x="0" y="0" z="4" spawntime="60" />
@@ -1562,12 +1598,27 @@
 	<spawn centerx="32099" centery="32251" centerz="5" radius="3">
 		<monster name="Cobra Scout" x="-3" y="2" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="31598" centery="32258" centerz="5" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="-1" z="5" spawntime="120" />
+	</spawn>
 	<spawn centerx="32092" centery="32258" centerz="5" radius="3">
 		<monster name="Cobra Vizier" x="2" y="-2" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="31599" centery="32264" centerz="5" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
 	<spawn centerx="32092" centery="32265" centerz="5" radius="3">
 		<monster name="Cobra Scout" x="2" y="-1" z="5" spawntime="60" />
 		<monster name="Cobra Scout" x="3" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="31595" centery="32269" centerz="5" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="5" spawntime="120" />
+	</spawn>
+	<spawn centerx="31593" centery="32271" centerz="5" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="5" spawntime="120" />
+	</spawn>
+	<spawn centerx="31600" centery="32271" centerz="5" radius="1">
+		<monster name="Pirate Ghost" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
 	<spawn centerx="32092" centery="32272" centerz="5" radius="3">
 		<monster name="Cobra Scout" x="-2" y="0" z="5" spawntime="60" />
@@ -1589,6 +1640,9 @@
 		<monster name="Cobra Assassin" x="8" y="3" z="5" spawntime="60" />
 		<monster name="Cobra Scout" x="-4" y="6" z="5" spawntime="60" />
 		<monster name="Cobra Scout" x="3" y="6" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="31593" centery="32275" centerz="5" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
 	<spawn centerx="32490" centery="32276" centerz="5" radius="1">
 		<monster name="Wyvern" x="0" y="0" z="5" spawntime="60" />
@@ -1624,6 +1678,12 @@
 	<spawn centerx="32078" centery="32286" centerz="5" radius="3">
 		<monster name="Cobra Assassin" x="-2" y="0" z="5" spawntime="60" />
 		<monster name="Cobra Assassin" x="-3" y="2" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="31589" centery="32290" centerz="5" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="5" spawntime="120" />
+	</spawn>
+	<spawn centerx="31583" centery="32291" centerz="5" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="5" spawntime="120" />
 	</spawn>
 	<spawn centerx="32071" centery="32293" centerz="5" radius="3">
 		<monster name="Cobra Assassin" x="1" y="-1" z="5" spawntime="60" />
@@ -2624,6 +2684,9 @@
 		<monster name="Cobra Scout" x="-3" y="1" z="6" spawntime="60" />
 		<monster name="Cobra Scout" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="31612" centery="32283" centerz="6" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="6" spawntime="120" />
+	</spawn>
 	<spawn centerx="32477" centery="32283" centerz="6" radius="1">
 		<monster name="Wyvern" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
@@ -2637,11 +2700,20 @@
 		<monster name="Cobra Assassin" x="-3" y="-3" z="6" spawntime="60" />
 		<monster name="Cobra Vizier" x="-3" y="1" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="31596" centery="32287" centerz="6" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="6" spawntime="120" />
+	</spawn>
+	<spawn centerx="31596" centery="32291" centerz="6" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="6" spawntime="120" />
+	</spawn>
 	<spawn centerx="31811" centery="32294" centerz="6" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="31808" centery="32295" centerz="6" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="31584" centery="32296" centerz="6" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="6" spawntime="120" />
 	</spawn>
 	<spawn centerx="31810" centery="32296" centerz="6" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="6" spawntime="60" />
@@ -2928,7 +3000,7 @@
 	<spawn centerx="32106" centery="32424" centerz="6" radius="1">
 		<monster name="Deepling Brawler" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="32018" centery="32425" centerz="6" radius="1">
+	<spawn centerx="32019" centery="32425" centerz="6" radius="1">
 		<monster name="Scorpion" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="32113" centery="32425" centerz="6" radius="1">
@@ -5658,6 +5730,9 @@
 		<monster name="Choking Fear" x="-3" y="-2" z="7" spawntime="60" />
 		<monster name="Retching Horror" x="2" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="31561" centery="32233" centerz="7" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="7" spawntime="120" />
+	</spawn>
 	<spawn centerx="31965" centery="32234" centerz="7" radius="1">
 		<monster name="Orc Marauder" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -5721,6 +5796,9 @@
 	<spawn centerx="32432" centery="32243" centerz="7" radius="5">
 		<monster name="Deer" x="3" y="-3" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="31624" centery="32244" centerz="7" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="7" spawntime="120" />
+	</spawn>
 	<spawn centerx="32092" centery="32244" centerz="7" radius="3">
 		<monster name="Cobra Assassin" x="-2" y="-1" z="7" spawntime="60" />
 		<monster name="Cobra Assassin" x="0" y="0" z="7" spawntime="60" />
@@ -5776,6 +5854,9 @@
 	<spawn centerx="31994" centery="32248" centerz="7" radius="1">
 		<monster name="Orc Marauder" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="31601" centery="32249" centerz="7" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="7" spawntime="120" />
+	</spawn>
 	<spawn centerx="31850" centery="32249" centerz="7" radius="3">
 		<monster name="Falcon Paladin" x="-2" y="-1" z="7" spawntime="60" />
 		<monster name="Falcon Knight" x="3" y="1" z="7" spawntime="60" />
@@ -5795,6 +5876,9 @@
 	<spawn centerx="32088" centery="32250" centerz="7" radius="3">
 		<monster name="Cobra Assassin" x="-3" y="-1" z="7" spawntime="60" />
 		<monster name="Cobra Scout" x="-2" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="31567" centery="32251" centerz="7" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="31765" centery="32251" centerz="7" radius="1">
 		<monster name="Tiger" x="0" y="0" z="7" spawntime="60" />
@@ -5867,6 +5951,9 @@
 	<spawn centerx="31972" centery="32257" centerz="7" radius="1">
 		<monster name="Orc Rider" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="31631" centery="32258" centerz="7" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="7" spawntime="120" />
+	</spawn>
 	<spawn centerx="32085" centery="32258" centerz="7" radius="3" />
 	<spawn centerx="32099" centery="32258" centerz="7" radius="3">
 		<monster name="Cobra Assassin" x="3" y="1" z="7" spawntime="60" />
@@ -5880,11 +5967,17 @@
 		<monster name="Retching Horror" x="-1" y="0" z="7" spawntime="32256" />
 		<monster name="Retching Horror" x="0" y="0" z="7" spawntime="90" />
 	</spawn>
+	<spawn centerx="31564" centery="32259" centerz="7" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="7" spawntime="120" />
+	</spawn>
 	<spawn centerx="32536" centery="32259" centerz="7" radius="1">
 		<monster name="Snake" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="32705" centery="32259" centerz="7" radius="1">
 		<monster name="Choking Fear" x="0" y="0" z="7" spawntime="90" />
+	</spawn>
+	<spawn centerx="31589" centery="32260" centerz="7" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="31804" centery="32260" centerz="7" radius="1">
 		<monster name="Lion" x="0" y="0" z="7" spawntime="60" />
@@ -5934,12 +6027,18 @@
 	<spawn centerx="32817" centery="32262" centerz="7" radius="1">
 		<monster name="Retching Horror" x="0" y="0" z="7" spawntime="90" />
 	</spawn>
+	<spawn centerx="31636" centery="32263" centerz="7" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="7" spawntime="120" />
+	</spawn>
 	<spawn centerx="32081" centery="32263" centerz="7" radius="3">
 		<monster name="Cobra Scout" x="0" y="-2" z="7" spawntime="60" />
 		<monster name="Cobra Scout" x="-2" y="2" z="7" spawntime="60" />
 		<monster name="Cobra Assassin" x="2" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="32697" centery="32263" centerz="7" radius="1" />
+	<spawn centerx="31565" centery="32264" centerz="7" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="7" spawntime="120" />
+	</spawn>
 	<spawn centerx="31959" centery="32264" centerz="7" radius="1">
 		<monster name="Orc Warrior" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -5978,6 +6077,9 @@
 	</spawn>
 	<spawn centerx="32858" centery="32266" centerz="7" radius="1">
 		<monster name="Choking Fear" x="0" y="0" z="7" spawntime="90" />
+	</spawn>
+	<spawn centerx="31617" centery="32267" centerz="7" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="31945" centery="32267" centerz="7" radius="1">
 		<monster name="Orc" x="0" y="0" z="7" spawntime="60" />
@@ -6023,6 +6125,9 @@
 	<spawn centerx="32772" centery="32268" centerz="7" radius="1">
 		<monster name="Silencer" x="0" y="0" z="7" spawntime="90" />
 	</spawn>
+	<spawn centerx="31646" centery="32269" centerz="7" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="7" spawntime="120" />
+	</spawn>
 	<spawn centerx="32443" centery="32269" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -6044,8 +6149,14 @@
 	<spawn centerx="32713" centery="32270" centerz="7" radius="1">
 		<monster name="Choking Fear" x="0" y="0" z="7" spawntime="90" />
 	</spawn>
+	<spawn centerx="31585" centery="32271" centerz="7" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="7" spawntime="120" />
+	</spawn>
 	<spawn centerx="32705" centery="32271" centerz="7" radius="1">
 		<monster name="Retching Horror" x="0" y="0" z="7" spawntime="90" />
+	</spawn>
+	<spawn centerx="31620" centery="32272" centerz="7" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="31726" centery="32272" centerz="7" radius="1">
 		<monster name="Tiger" x="0" y="0" z="7" spawntime="60" />
@@ -6073,6 +6184,9 @@
 	</spawn>
 	<spawn centerx="31908" centery="32273" centerz="7" radius="1">
 		<monster name="Orc Spearman" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="31609" centery="32274" centerz="7" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="31914" centery="32274" centerz="7" radius="1">
 		<monster name="Orc Shaman" x="0" y="0" z="7" spawntime="60" />
@@ -6120,6 +6234,10 @@
 	<spawn centerx="31954" centery="32276" centerz="7" radius="1">
 		<monster name="Orc Spearman" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="31614" centery="32277" centerz="7" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="7" spawntime="120" />
+		<monster name="Pirat Cutthroat" x="0" y="1" z="7" spawntime="-1336750336" />
+	</spawn>
 	<spawn centerx="31725" centery="32277" centerz="7" radius="1">
 		<monster name="Lion" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -6141,6 +6259,9 @@
 	<spawn centerx="32084" centery="32278" centerz="7" radius="3">
 		<monster name="Cobra Scout" x="-2" y="1" z="7" spawntime="60" />
 		<monster name="Cobra Scout" x="2" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="31587" centery="32279" centerz="7" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="32092" centery="32279" centerz="7" radius="3">
 		<monster name="Cobra Scout" x="3" y="1" z="7" spawntime="60" />
@@ -6204,6 +6325,9 @@
 	<spawn centerx="32839" centery="32281" centerz="7" radius="3">
 		<monster name="Retching Horror" x="-3" y="-2" z="7" spawntime="90" />
 	</spawn>
+	<spawn centerx="31559" centery="32282" centerz="7" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="7" spawntime="120" />
+	</spawn>
 	<spawn centerx="31904" centery="32282" centerz="7" radius="1">
 		<monster name="Orc" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -6219,6 +6343,9 @@
 	</spawn>
 	<spawn centerx="32781" centery="32284" centerz="7" radius="1">
 		<monster name="Silencer" x="0" y="0" z="7" spawntime="90" />
+	</spawn>
+	<spawn centerx="31657" centery="32285" centerz="7" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="31916" centery="32285" centerz="7" radius="1">
 		<monster name="Orc Spearman" x="0" y="0" z="7" spawntime="60" />
@@ -6239,6 +6366,9 @@
 	<spawn centerx="32416" centery="32286" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="31562" centery="32287" centerz="7" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="7" spawntime="120" />
+	</spawn>
 	<spawn centerx="31839" centery="32287" centerz="7" radius="1">
 		<monster name="Lion" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -6247,6 +6377,12 @@
 	</spawn>
 	<spawn centerx="32812" centery="32287" centerz="7" radius="1">
 		<monster name="Choking Fear" x="0" y="0" z="7" spawntime="90" />
+	</spawn>
+	<spawn centerx="31586" centery="32288" centerz="7" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="7" spawntime="120" />
+	</spawn>
+	<spawn centerx="31642" centery="32288" centerz="7" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="32312" centery="32288" centerz="7" radius="1">
 		<monster name="Troll Champion" x="0" y="0" z="7" spawntime="60" />
@@ -6286,6 +6422,9 @@
 	<spawn centerx="32853" centery="32288" centerz="7" radius="3">
 		<monster name="Choking Fear" x="0" y="-2" z="7" spawntime="90" />
 		<monster name="Choking Fear" x="-2" y="3" z="7" spawntime="90" />
+	</spawn>
+	<spawn centerx="31657" centery="32289" centerz="7" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="31912" centery="32289" centerz="7" radius="1">
 		<monster name="Orc Shaman" x="0" y="0" z="7" spawntime="60" />
@@ -6331,6 +6470,9 @@
 	</spawn>
 	<spawn centerx="32766" centery="32293" centerz="7" radius="1">
 		<monster name="Retching Horror" x="0" y="0" z="7" spawntime="90" />
+	</spawn>
+	<spawn centerx="31627" centery="32294" centerz="7" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="31902" centery="32294" centerz="7" radius="1">
 		<monster name="Orc Shaman" x="0" y="0" z="7" spawntime="60" />
@@ -6452,6 +6594,9 @@
 	<spawn centerx="32547" centery="32301" centerz="7" radius="1">
 		<monster name="Snake" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="31556" centery="32302" centerz="7" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="7" spawntime="120" />
+	</spawn>
 	<spawn centerx="31833" centery="32302" centerz="7" radius="1">
 		<monster name="Hyaena" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -6497,6 +6642,12 @@
 		<monster name="Choking Fear" x="-1" y="-2" z="7" spawntime="90" />
 		<monster name="Choking Fear" x="-2" y="3" z="7" spawntime="90" />
 	</spawn>
+	<spawn centerx="31575" centery="32303" centerz="7" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="7" spawntime="120" />
+	</spawn>
+	<spawn centerx="31650" centery="32303" centerz="7" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="7" spawntime="120" />
+	</spawn>
 	<spawn centerx="32698" centery="32303" centerz="7" radius="1">
 		<monster name="Retching Horror" x="0" y="0" z="7" spawntime="90" />
 	</spawn>
@@ -6541,6 +6692,9 @@
 	</spawn>
 	<spawn centerx="32740" centery="32307" centerz="7" radius="1">
 		<monster name="Silencer" x="0" y="0" z="7" spawntime="90" />
+	</spawn>
+	<spawn centerx="31593" centery="32308" centerz="7" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="31782" centery="32308" centerz="7" radius="1">
 		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" />
@@ -6604,6 +6758,9 @@
 	<spawn centerx="32557" centery="32310" centerz="7" radius="1">
 		<monster name="Snake" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="31548" centery="32311" centerz="7" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="7" spawntime="120" />
+	</spawn>
 	<spawn centerx="31852" centery="32311" centerz="7" radius="1">
 		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -6625,8 +6782,23 @@
 	<spawn centerx="32445" centery="32313" centerz="7" radius="1">
 		<monster name="Snake" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="31594" centery="32314" centerz="7" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="7" spawntime="120" />
+	</spawn>
 	<spawn centerx="31781" centery="32314" centerz="7" radius="1">
 		<monster name="Lion" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="31569" centery="32315" centerz="7" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="7" spawntime="120" />
+	</spawn>
+	<spawn centerx="31573" centery="32315" centerz="7" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="7" spawntime="120" />
+	</spawn>
+	<spawn centerx="31605" centery="32315" centerz="7" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="7" spawntime="120" />
+	</spawn>
+	<spawn centerx="31663" centery="32315" centerz="7" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="31966" centery="32315" centerz="7" radius="1">
 		<monster name="Lion" x="0" y="0" z="7" spawntime="60" />
@@ -6686,6 +6858,9 @@
 	<spawn centerx="32669" centery="32317" centerz="7" radius="1">
 		<monster name="Silencer" x="0" y="0" z="7" spawntime="90" />
 	</spawn>
+	<spawn centerx="31568" centery="32319" centerz="7" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="7" spawntime="120" />
+	</spawn>
 	<spawn centerx="32673" centery="32319" centerz="7" radius="1">
 		<monster name="Guzzlemaw" x="0" y="0" z="7" spawntime="90" />
 	</spawn>
@@ -6729,11 +6904,17 @@
 	<spawn centerx="32669" centery="32324" centerz="7" radius="1">
 		<monster name="Silencer" x="0" y="0" z="7" spawntime="90" />
 	</spawn>
+	<spawn centerx="31539" centery="32325" centerz="7" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="7" spawntime="120" />
+	</spawn>
 	<spawn centerx="32437" centery="32325" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="32557" centery="32325" centerz="7" radius="1">
 		<monster name="Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="31585" centery="32326" centerz="7" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="31794" centery="32326" centerz="7" radius="1">
 		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" />
@@ -6746,6 +6927,9 @@
 	</spawn>
 	<spawn centerx="32468" centery="32326" centerz="7" radius="1">
 		<monster name="Dragon" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="31554" centery="32327" centerz="7" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="31889" centery="32327" centerz="7" radius="1">
 		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" />
@@ -6817,6 +7001,9 @@
 	</spawn>
 	<spawn centerx="32552" centery="32332" centerz="7" radius="1">
 		<monster name="Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="31591" centery="32333" centerz="7" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="31850" centery="32333" centerz="7" radius="1">
 		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" />
@@ -6899,6 +7086,9 @@
 		<monster name="Guzzlemaw" x="-4" y="-5" z="7" spawntime="90" />
 		<monster name="Guzzlemaw" x="8" y="-1" z="7" spawntime="90" />
 	</spawn>
+	<spawn centerx="31572" centery="32338" centerz="7" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="7" spawntime="120" />
+	</spawn>
 	<spawn centerx="31807" centery="32338" centerz="7" radius="1">
 		<monster name="Tiger" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -6934,6 +7124,9 @@
 	</spawn>
 	<spawn centerx="32549" centery="32340" centerz="7" radius="1">
 		<monster name="Snake" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="31592" centery="32341" centerz="7" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="7" spawntime="120" />
 	</spawn>
 	<spawn centerx="31890" centery="32341" centerz="7" radius="1">
 		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" />
@@ -10936,8 +11129,65 @@
 	<spawn centerx="32830" centery="31560" centerz="8" radius="1">
 		<monster name="Infernal Demon" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="32313" centery="31575" centerz="8" radius="1">
+		<monster name="Cobra Assassin" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32353" centery="31575" centerz="8" radius="1">
+		<monster name="Cobra Scout" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32348" centery="31576" centerz="8" radius="1">
+		<monster name="Cobra Assassin" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32309" centery="31577" centerz="8" radius="1">
+		<monster name="Cobra Vizier" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32356" centery="31577" centerz="8" radius="1">
+		<monster name="Cobra Vizier" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32306" centery="31580" centerz="8" radius="1">
+		<monster name="Cobra Scout" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32358" centery="31580" centerz="8" radius="1">
+		<monster name="Cobra Vizier" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32305" centery="31583" centerz="8" radius="1">
+		<monster name="Cobra Vizier" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32307" centery="31587" centerz="8" radius="1">
+		<monster name="Manticore" x="0" y="-1" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32347" centery="31587" centerz="8" radius="1">
+		<monster name="Cobra Assassin" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32354" centery="31588" centerz="8" radius="1">
+		<monster name="Crypt Warden" x="0" y="-1" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32309" centery="31589" centerz="8" radius="1">
+		<monster name="Cobra Assassin" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32359" centery="31613" centerz="8" radius="1">
+		<monster name="Cobra Assassin" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32304" centery="31616" centerz="8" radius="1">
+		<monster name="Cobra Vizier" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32358" centery="31617" centerz="8" radius="1">
+		<monster name="Cobra Vizier" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32307" centery="31618" centerz="8" radius="1">
+		<monster name="Cobra Scout" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32317" centery="31618" centerz="8" radius="1">
+		<monster name="Cobra Assassin" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32345" centery="31618" centerz="8" radius="1">
+		<monster name="Cobra Assassin" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
 	<spawn centerx="32860" centery="31618" centerz="8" radius="1">
 		<monster name="Many Faces" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32349" centery="31619" centerz="8" radius="1">
+		<monster name="Feral Sphinx" x="0" y="0" z="8" spawntime="90" />
 	</spawn>
 	<spawn centerx="32849" centery="31619" centerz="8" radius="1">
 		<monster name="Druid's Apparition" x="0" y="0" z="8" spawntime="60" />
@@ -10945,17 +11195,32 @@
 	<spawn centerx="32887" centery="31619" centerz="8" radius="1">
 		<monster name="Paladin's Apparition" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="32311" centery="31620" centerz="8" radius="1">
+		<monster name="Cobra Vizier" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
 	<spawn centerx="32880" centery="31620" centerz="8" radius="1">
 		<monster name="Many Faces" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32922" centery="31620" centerz="8" radius="1">
 		<monster name="Many Faces" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="32309" centery="31621" centerz="8" radius="1">
+		<monster name="Sphinx" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32350" centery="31621" centerz="8" radius="1">
+		<monster name="Cobra Scout" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32354" centery="31621" centerz="8" radius="1">
+		<monster name="Cobra Vizier" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
 	<spawn centerx="32849" centery="31621" centerz="8" radius="1">
 		<monster name="Many Faces" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32863" centery="31621" centerz="8" radius="1">
 		<monster name="Many Faces" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32313" centery="31622" centerz="8" radius="1">
+		<monster name="Cobra Assassin" x="0" y="0" z="8" spawntime="90" />
 	</spawn>
 	<spawn centerx="32857" centery="31622" centerz="8" radius="1">
 		<monster name="Paladin's Apparition" x="0" y="0" z="8" spawntime="60" />
@@ -10965,6 +11230,15 @@
 	</spawn>
 	<spawn centerx="32879" centery="31624" centerz="8" radius="1">
 		<monster name="Druid's Apparition" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32329" centery="31625" centerz="8" radius="1">
+		<monster name="Sphinx" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32332" centery="31625" centerz="8" radius="1">
+		<monster name="Crypt Warden" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32334" centery="31625" centerz="8" radius="1">
+		<monster name="Manticore" x="0" y="0" z="8" spawntime="90" />
 	</spawn>
 	<spawn centerx="32863" centery="31625" centerz="8" radius="1">
 		<monster name="Sorcerer's Apparition" x="0" y="0" z="8" spawntime="60" />
@@ -11771,6 +12045,12 @@
 		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
 		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
 	</spawn>
+	<spawn centerx="33056" centery="31861" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33061" centery="31861" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32526" centery="31862" centerz="8" radius="3">
 		<monster name="Juggernaut" x="-2" y="-3" z="8" spawntime="90" />
 		<monster name="Hellhound" x="-2" y="0" z="8" spawntime="90" />
@@ -11780,11 +12060,20 @@
 	<spawn centerx="32668" centery="31863" centerz="8" radius="1">
 		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
 	</spawn>
+	<spawn centerx="33063" centery="31863" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32531" centery="31864" centerz="8" radius="1">
 		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
 	</spawn>
 	<spawn centerx="32539" centery="31864" centerz="8" radius="1">
 		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="33054" centery="31864" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33061" centery="31864" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32569" centery="31865" centerz="8" radius="1">
 		<monster name="Demon" x="0" y="0" z="8" spawntime="90" />
@@ -11796,6 +12085,9 @@
 		<monster name="Dwarf Soldier" x="-1" y="1" z="8" spawntime="90" />
 		<monster name="Dwarf Soldier" x="2" y="1" z="8" spawntime="90" />
 	</spawn>
+	<spawn centerx="33070" centery="31866" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32691" centery="31867" centerz="8" radius="3">
 		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
 		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
@@ -11804,11 +12096,32 @@
 		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
 		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
 	</spawn>
+	<spawn centerx="33057" centery="31867" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33061" centery="31867" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33067" centery="31867" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="31747" centery="31868" centerz="8" radius="1">
 		<monster name="Worm Priestess" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32524" centery="31868" centerz="8" radius="1">
 		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="33074" centery="31868" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33064" centery="31869" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33059" centery="31871" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33076" centery="31871" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="31739" centery="31873" centerz="8" radius="1">
 		<monster name="Lost Thrower" x="0" y="0" z="8" spawntime="60" />
@@ -11829,6 +12142,9 @@
 	<spawn centerx="32609" centery="31875" centerz="8" radius="1">
 		<monster name="Demon" x="0" y="0" z="8" spawntime="90" />
 	</spawn>
+	<spawn centerx="32988" centery="31875" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32519" centery="31876" centerz="8" radius="3">
 		<monster name="Destroyer" x="3" y="0" z="8" spawntime="90" />
 	</spawn>
@@ -11837,6 +12153,15 @@
 		<monster name="Juggernaut" x="-3" y="0" z="8" spawntime="90" />
 		<monster name="Hellspawn" x="0" y="1" z="8" spawntime="90" />
 		<monster name="Demon" x="-2" y="3" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32993" centery="31876" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32984" centery="31877" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32990" centery="31877" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="31739" centery="31878" centerz="8" radius="1">
 		<monster name="Lizard High Guard" x="0" y="0" z="8" spawntime="60" />
@@ -11922,6 +12247,9 @@
 	<spawn centerx="32685" centery="31879" centerz="8" radius="1">
 		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
 	</spawn>
+	<spawn centerx="32959" centery="31879" centerz="8" radius="1">
+		<monster name="Irgix The Flimsy" x="-1" y="0" z="8" spawntime="1800" />
+	</spawn>
 	<spawn centerx="32434" centery="31880" centerz="8" radius="3">
 		<monster name="Dwarf" x="-2" y="-3" z="8" spawntime="90" />
 		<monster name="Dwarf Soldier" x="2" y="-3" z="8" spawntime="90" />
@@ -11936,12 +12264,63 @@
 	<spawn centerx="32639" centery="31880" centerz="8" radius="1">
 		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
 	</spawn>
+	<spawn centerx="32985" centery="31880" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33057" centery="31880" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33060" centery="31880" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33078" centery="31880" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32983" centery="31881" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33088" centery="31881" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33081" centery="31882" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32533" centery="31883" centerz="8" radius="3">
 		<monster name="Hellspawn" x="0" y="-3" z="8" spawntime="90" />
 		<monster name="Destroyer" x="2" y="-2" z="8" spawntime="90" />
 	</spawn>
+	<spawn centerx="33029" centery="31883" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33031" centery="31883" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33090" centery="31884" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="31730" centery="31885" centerz="8" radius="1">
 		<monster name="Lost Thrower" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33029" centery="31885" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33054" centery="31885" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33059" centery="31885" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33063" centery="31885" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32979" centery="31886" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33007" centery="31886" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33038" centery="31886" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32455" centery="31887" centerz="8" radius="3">
 		<monster name="Dwarf" x="2" y="-3" z="8" spawntime="90" />
@@ -11951,8 +12330,42 @@
 		<monster name="Dwarf" x="-2" y="-3" z="8" spawntime="90" />
 		<monster name="Dwarf Soldier" x="-2" y="-1" z="8" spawntime="90" />
 	</spawn>
+	<spawn centerx="33089" centery="31887" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33003" centery="31888" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33048" centery="31888" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Evil Prospector" x="0" y="1" z="8" spawntime="-1332016640" />
+	</spawn>
+	<spawn centerx="33078" centery="31888" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33053" centery="31889" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33057" centery="31889" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32545" centery="31890" centerz="8" radius="1">
 		<monster name="Demon" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="33026" centery="31890" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33066" centery="31890" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33082" centery="31890" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33091" centery="31890" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33101" centery="31890" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="31733" centery="31891" centerz="8" radius="1">
 		<monster name="Lizard High Guard" x="0" y="0" z="8" spawntime="60" />
@@ -11963,6 +12376,18 @@
 		<monster name="Destroyer" x="2" y="0" z="8" spawntime="60" />
 		<monster name="Hellspawn" x="-3" y="2" z="8" spawntime="60" />
 		<monster name="Grim Reaper" x="0" y="3" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32980" centery="31891" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32991" centery="31891" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33060" centery="31891" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33078" centery="31891" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32528" centery="31892" centerz="8" radius="3">
 		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
@@ -11988,6 +12413,15 @@
 		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="60" />
 		<monster name="Destroyer" x="2" y="3" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="33005" centery="31892" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33012" centery="31892" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33086" centery="31892" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32589" centery="31893" centerz="8" radius="3">
 		<monster name="Dark Torturer" x="-1" y="-3" z="8" spawntime="60" />
 		<monster name="Hellspawn" x="-3" y="-1" z="8" spawntime="60" />
@@ -12000,6 +12434,9 @@
 		<monster name="Hellspawn" x="-3" y="-1" z="8" spawntime="60" />
 		<monster name="Grim Reaper" x="-2" y="1" z="8" spawntime="60" />
 		<monster name="Destroyer" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33024" centery="31893" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="31733" centery="31894" centerz="8" radius="1">
 		<monster name="Frost Dragon" x="0" y="0" z="8" spawntime="60" />
@@ -12021,6 +12458,49 @@
 		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="60" />
 		<monster name="Destroyer" x="2" y="3" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="32982" centery="31895" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32991" centery="31895" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33010" centery="31895" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33067" centery="31895" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33072" centery="31895" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33080" centery="31895" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32959" centery="31896" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32962" centery="31896" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33008" centery="31896" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32953" centery="31897" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32985" centery="31897" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32996" centery="31897" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33026" centery="31897" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33062" centery="31897" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="31734" centery="31898" centerz="8" radius="1">
 		<monster name="Minotaur Hunter" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -12037,6 +12517,21 @@
 		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
 		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
 	</spawn>
+	<spawn centerx="32968" centery="31898" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32972" centery="31898" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32974" centery="31898" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33002" centery="31898" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33071" centery="31898" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32626" centery="31899" centerz="8" radius="3">
 		<monster name="Dark Torturer" x="-2" y="-3" z="8" spawntime="60" />
 		<monster name="Hellhound" x="2" y="-2" z="8" spawntime="60" />
@@ -12044,12 +12539,53 @@
 		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="60" />
 		<monster name="Destroyer" x="2" y="3" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="32985" centery="31899" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32991" centery="31899" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Evil Prospector" x="1" y="0" z="8" spawntime="-1332016640" />
+	</spawn>
+	<spawn centerx="33023" centery="31899" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33030" centery="31899" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33034" centery="31899" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32954" centery="31900" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33050" centery="31900" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33062" centery="31900" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33087" centery="31900" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33091" centery="31900" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32434" centery="31901" centerz="8" radius="3">
 		<monster name="Dwarf Soldier" x="-1" y="-2" z="8" spawntime="90" />
 		<monster name="Dwarf" x="3" y="-2" z="8" spawntime="90" />
 	</spawn>
 	<spawn centerx="32441" centery="31901" centerz="8" radius="3">
 		<monster name="Dwarf" x="1" y="-2" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32975" centery="31901" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32978" centery="31901" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33011" centery="31901" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Cursed Prospector" x="0" y="1" z="8" spawntime="1898465792" />
 	</spawn>
 	<spawn centerx="32566" centery="31902" centerz="8" radius="3">
 		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
@@ -12066,6 +12602,15 @@
 		<monster name="Grim Reaper" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Grim Reaper" x="-2" y="2" z="8" spawntime="60" />
 		<monster name="Dark Torturer" x="2" y="3" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32996" centery="31902" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33065" centery="31902" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33075" centery="31902" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32586" centery="31903" centerz="8" radius="3">
 		<monster name="Dark Torturer" x="-1" y="-3" z="8" spawntime="60" />
@@ -12096,6 +12641,12 @@
 		<monster name="Destroyer" x="0" y="2" z="8" spawntime="60" />
 		<monster name="Grim Reaper" x="2" y="2" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="33038" centery="31903" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33057" centery="31903" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="31730" centery="31904" centerz="8" radius="1">
 		<monster name="Minotaur Hunter" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -12118,6 +12669,34 @@
 		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
 		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
 	</spawn>
+	<spawn centerx="32951" centery="31904" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33030" centery="31904" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33033" centery="31904" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33052" centery="31904" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33027" centery="31905" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32949" centery="31906" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33063" centery="31906" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Evil Prospector" x="0" y="1" z="8" spawntime="-1332016640" />
+	</spawn>
+	<spawn centerx="33095" centery="31906" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33019" centery="31907" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32448" centery="31908" centerz="8" radius="3">
 		<monster name="Dwarf Soldier" x="-1" y="-1" z="8" spawntime="90" />
 	</spawn>
@@ -12125,8 +12704,53 @@
 		<monster name="Dwarf" x="-1" y="0" z="8" spawntime="90" />
 		<monster name="Dwarf Soldier" x="1" y="0" z="8" spawntime="90" />
 	</spawn>
+	<spawn centerx="32994" centery="31908" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33087" centery="31908" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32986" centery="31909" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33034" centery="31909" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33042" centery="31909" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33090" centery="31909" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="31736" centery="31910" centerz="8" radius="1">
 		<monster name="Frost Dragon" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32950" centery="31910" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33032" centery="31912" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33040" centery="31912" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32949" centery="31913" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32951" centery="31913" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33062" centery="31913" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32976" centery="31914" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33079" centery="31914" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33084" centery="31914" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32462" centery="31915" centerz="8" radius="3">
 		<monster name="Dwarf" x="3" y="-2" z="8" spawntime="90" />
@@ -12136,8 +12760,64 @@
 	<spawn centerx="32469" centery="31915" centerz="8" radius="3">
 		<monster name="Dwarf" x="1" y="0" z="8" spawntime="90" />
 	</spawn>
+	<spawn centerx="33025" centery="31915" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32951" centery="31916" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33088" centery="31916" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32996" centery="31917" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33085" centery="31917" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32954" centery="31918" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Evil Prospector" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32978" centery="31918" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33092" centery="31918" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32971" centery="31919" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32975" centery="31919" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Evil Prospector" x="0" y="1" z="8" spawntime="1898475008" />
+	</spawn>
 	<spawn centerx="32892" centery="31920" centerz="8" radius="1">
 		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32955" centery="31920" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32965" centery="31920" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32980" centery="31920" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32991" centery="31920" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33038" centery="31920" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33022" centery="31921" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33043" centery="31921" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33089" centery="31921" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32441" centery="31922" centerz="8" radius="3">
 		<monster name="Dwarf" x="-1" y="-3" z="8" spawntime="90" />
@@ -12159,33 +12839,74 @@
 	<spawn centerx="32497" centery="31922" centerz="8" radius="3">
 		<monster name="Dwarf Soldier" x="-2" y="3" z="8" spawntime="90" />
 	</spawn>
+	<spawn centerx="32982" centery="31922" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32988" centery="31922" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32959" centery="31923" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32985" centery="31923" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32998" centery="31923" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33005" centery="31923" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33012" centery="31923" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32891" centery="31924" centerz="8" radius="1">
 		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32961" centery="31924" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33036" centery="31924" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33042" centery="31925" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33087" centery="31925" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32818" centery="31926" centerz="8" radius="1">
 		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="32857" centery="31926" centerz="8" radius="1">
-		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="32887" centery="31926" centerz="8" radius="1">
 		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32986" centery="31926" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33001" centery="31926" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33014" centery="31926" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33050" centery="31926" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32814" centery="31927" centerz="8" radius="1">
 		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="32851" centery="31927" centerz="8" radius="1">
+	<spawn centerx="32994" centery="31927" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33009" centery="31927" centerz="8" radius="1">
 		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="32855" centery="31927" centerz="8" radius="1">
-		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="32861" centery="31927" centerz="8" radius="1">
+	<spawn centerx="33081" centery="31927" centerz="8" radius="1">
 		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="32841" centery="31928" centerz="8" radius="1">
-		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Evil Prospector" x="1" y="0" z="8" spawntime="60" />
+	<spawn centerx="33003" centery="31928" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32497" centery="31929" centerz="8" radius="3">
 		<monster name="Dwarf" x="3" y="-3" z="8" spawntime="90" />
@@ -12194,14 +12915,14 @@
 		<monster name="Dwarf Soldier" x="-3" y="-1" z="8" spawntime="90" />
 		<monster name="Dwarf" x="-3" y="1" z="8" spawntime="90" />
 	</spawn>
-	<spawn centerx="32837" centery="31929" centerz="8" radius="1">
+	<spawn centerx="32995" centery="31929" centerz="8" radius="1">
 		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="32844" centery="31929" centerz="8" radius="1">
-		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="33040" centery="31929" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="32862" centery="31930" centerz="8" radius="1">
-		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="33045" centery="31929" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32884" centery="31930" centerz="8" radius="1">
 		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
@@ -12209,26 +12930,64 @@
 	<spawn centerx="32890" centery="31930" centerz="8" radius="1">
 		<monster name="Freakish Lost Soul" x="-1" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="33081" centery="31930" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32811" centery="31931" centerz="8" radius="1">
 		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32824" centery="31931" centerz="8" radius="1">
 		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="32864" centery="31931" centerz="8" radius="1">
+	<spawn centerx="32991" centery="31931" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33052" centery="31931" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33072" centery="31931" centerz="8" radius="1">
 		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="32837" centery="31932" centerz="8" radius="1">
-		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Freakish Lost Soul" x="0" y="1" z="8" spawntime="60" />
+	<spawn centerx="33077" centery="31931" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32889" centery="31932" centerz="8" radius="1">
 		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="33068" centery="31932" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33045" centery="31933" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32830" centery="31934" centerz="8" radius="1">
 		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="32977" centery="31934" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32983" centery="31934" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32990" centery="31934" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33003" centery="31934" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33056" centery="31934" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33081" centery="31934" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33084" centery="31934" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32887" centery="31935" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33044" centery="31935" centerz="8" radius="1">
 		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32420" centery="31936" centerz="8" radius="3">
@@ -12239,11 +12998,38 @@
 		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Flimsy Lost Soul" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="32978" centery="31936" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33067" centery="31936" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32810" centery="31937" centerz="8" radius="1">
 		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="32986" centery="31937" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33062" centery="31937" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33007" centery="31938" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33083" centery="31938" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32890" centery="31939" centerz="8" radius="1">
 		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32973" centery="31940" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33045" centery="31940" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33083" centery="31940" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32812" centery="31941" centerz="8" radius="1">
 		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
@@ -12253,6 +13039,16 @@
 	</spawn>
 	<spawn centerx="32893" centery="31941" centerz="8" radius="1">
 		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32981" centery="31941" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33010" centery="31941" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33043" centery="31941" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="0" y="1" z="8" spawntime="-1332013312" />
 	</spawn>
 	<spawn centerx="32848" centery="31942" centerz="8" radius="1">
 		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
@@ -12294,8 +13090,26 @@
 		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Freakish Lost Soul" x="0" y="1" z="8" spawntime="-1332012288" />
 	</spawn>
+	<spawn centerx="32984" centery="31944" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33048" centery="31944" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32988" centery="31945" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32896" centery="31946" centerz="8" radius="1">
 		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32981" centery="31946" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33042" centery="31946" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33080" centery="31946" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32827" centery="31947" centerz="8" radius="1">
 		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
@@ -12309,7 +13123,16 @@
 	<spawn centerx="32894" centery="31948" centerz="8" radius="1">
 		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="33039" centery="31948" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33046" centery="31948" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32863" centery="31949" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33082" centery="31949" centerz="8" radius="1">
 		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32378" centery="31950" centerz="8" radius="3">
@@ -12324,6 +13147,9 @@
 	<spawn centerx="32462" centery="31950" centerz="8" radius="3">
 		<monster name="Bat" x="3" y="3" z="8" spawntime="90" />
 	</spawn>
+	<spawn centerx="33016" centery="31950" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32843" centery="31951" centerz="8" radius="1">
 		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -12336,6 +13162,15 @@
 	<spawn centerx="32893" centery="31951" centerz="8" radius="1">
 		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="33047" centery="31951" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33077" centery="31951" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33032" centery="31952" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32826" centery="31953" centerz="8" radius="1">
 		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -12344,6 +13179,12 @@
 	</spawn>
 	<spawn centerx="32890" centery="31953" centerz="8" radius="1">
 		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33034" centery="31953" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33021" centery="31954" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32854" centery="31955" centerz="8" radius="1">
 		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
@@ -12405,6 +13246,9 @@
 	</spawn>
 	<spawn centerx="32838" centery="31963" centerz="8" radius="1">
 		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33070" centery="31963" centerz="8" radius="1">
+		<monster name="Unaz the Mean" x="0" y="1" z="8" spawntime="1800" />
 	</spawn>
 	<spawn centerx="32371" centery="31964" centerz="8" radius="3">
 		<monster name="Minotaur" x="3" y="-2" z="8" spawntime="90" />
@@ -12679,10 +13523,19 @@
 	<spawn centerx="32891" centery="31990" centerz="8" radius="1">
 		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="32958" centery="31990" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32964" centery="31990" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="31880" centery="31991" centerz="8" radius="1">
 		<monster name="Lizard High Guard" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32520" centery="31991" centerz="8" radius="5" />
+	<spawn centerx="32969" centery="31991" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="31867" centery="31992" centerz="8" radius="1">
 		<monster name="Killer Caiman" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -12693,6 +13546,15 @@
 		<monster name="Rotworm" x="-3" y="-3" z="8" spawntime="90" />
 	</spawn>
 	<spawn centerx="32504" centery="31992" centerz="8" radius="5" />
+	<spawn centerx="32955" centery="31992" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32967" centery="31992" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32991" centery="31992" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="31877" centery="31993" centerz="8" radius="1">
 		<monster name="Lizard Magistratus" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -12714,6 +13576,9 @@
 	<spawn centerx="32890" centery="31993" centerz="8" radius="1">
 		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="32979" centery="31993" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32826" centery="31994" centerz="8" radius="1">
 		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -12722,6 +13587,19 @@
 	</spawn>
 	<spawn centerx="32815" centery="31995" centerz="8" radius="1">
 		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32975" centery="31995" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32984" centery="31995" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Freakish Lost Soul" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32988" centery="31995" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32953" centery="31996" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32888" centery="31997" centerz="8" radius="1">
 		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
@@ -12736,6 +13614,12 @@
 		<monster name="Killer Caiman" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32520" centery="31998" centerz="8" radius="5" />
+	<spawn centerx="32996" centery="31998" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33051" centery="31998" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="31737" centery="31999" centerz="8" radius="1">
 		<monster name="Domestikion" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -12756,8 +13640,23 @@
 	<spawn centerx="32448" centery="31999" centerz="8" radius="3">
 		<monster name="Dwarf" x="-1" y="1" z="8" spawntime="90" />
 	</spawn>
+	<spawn centerx="32953" centery="31999" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32992" centery="31999" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="31850" centery="32000" centerz="8" radius="1">
 		<monster name="Seacrest Serpent" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33003" centery="32000" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33045" centery="32000" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33048" centery="32000" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32808" centery="32001" centerz="8" radius="1">
 		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
@@ -12767,6 +13666,12 @@
 	</spawn>
 	<spawn centerx="32889" centery="32002" centerz="8" radius="1">
 		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32997" centery="32002" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33040" centery="32002" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="31867" centery="32003" centerz="8" radius="1">
 		<monster name="Lost Husher" x="0" y="0" z="8" spawntime="60" />
@@ -12780,6 +13685,21 @@
 	<spawn centerx="31894" centery="32003" centerz="8" radius="1">
 		<monster name="Minotaur Amazon" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="32951" centery="32003" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32990" centery="32003" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33015" centery="32003" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33019" centery="32003" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33036" centery="32003" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="31869" centery="32004" centerz="8" radius="1">
 		<monster name="Lava Lurker" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -12787,6 +13707,15 @@
 		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32857" centery="32004" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33025" centery="32004" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33043" centery="32004" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33046" centery="32004" centerz="8" radius="1">
 		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="31894" centery="32005" centerz="8" radius="1">
@@ -12821,13 +13750,25 @@
 		<monster name="Evil Prospector" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="32988" centery="32007" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32869" centery="32008" centerz="8" radius="1">
 		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32954" centery="32008" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32814" centery="32009" centerz="8" radius="1">
 		<monster name="Flimsy Lost Soul" x="-1" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="33045" centery="32009" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32853" centery="32010" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33048" centery="32010" centerz="8" radius="1">
 		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="31880" centery="32011" centerz="8" radius="1">
@@ -12838,6 +13779,9 @@
 	</spawn>
 	<spawn centerx="31894" centery="32011" centerz="8" radius="1">
 		<monster name="Bonebeast" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32986" centery="32011" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32817" centery="32012" centerz="8" radius="1">
 		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
@@ -12866,6 +13810,15 @@
 	<spawn centerx="32448" centery="32013" centerz="8" radius="3">
 		<monster name="Dwarf" x="0" y="1" z="8" spawntime="90" />
 	</spawn>
+	<spawn centerx="32956" centery="32013" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33046" centery="32014" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33048" centery="32014" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32663" centery="32015" centerz="8" radius="3">
 		<monster name="Ghoul" x="-1" y="-2" z="8" spawntime="90" />
 		<monster name="Skeleton" x="3" y="0" z="8" spawntime="90" />
@@ -12880,6 +13833,9 @@
 	<spawn centerx="32882" centery="32015" centerz="8" radius="1">
 		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="33002" centery="32016" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="31879" centery="32017" centerz="8" radius="1">
 		<monster name="Bonebeast" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -12889,10 +13845,22 @@
 	<spawn centerx="32879" centery="32017" centerz="8" radius="1">
 		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="32985" centery="32017" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33045" centery="32017" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33051" centery="32017" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32819" centery="32018" centerz="8" radius="1">
 		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32823" centery="32018" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33048" centery="32018" centerz="8" radius="1">
 		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32653" centery="32019" centerz="8" radius="2">
@@ -12902,6 +13870,9 @@
 	<spawn centerx="32825" centery="32019" centerz="8" radius="1">
 		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Freakish Lost Soul" x="1" y="0" z="8" spawntime="-1332012288" />
+	</spawn>
+	<spawn centerx="32960" centery="32019" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32343" centery="32020" centerz="8" radius="3">
 		<monster name="Minotaur" x="-3" y="-2" z="8" spawntime="90" />
@@ -12915,9 +13886,47 @@
 	<spawn centerx="32836" centery="32020" centerz="8" radius="1">
 		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="33048" centery="32020" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32644" centery="32021" centerz="8" radius="5" />
 	<spawn centerx="32831" centery="32021" centerz="8" radius="1">
 		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32984" centery="32021" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33036" centery="32021" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33004" centery="32022" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32964" centery="32023" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33035" centery="32023" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33031" centery="32024" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32973" centery="32025" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32980" centery="32025" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32967" centery="32026" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32970" centery="32026" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33026" centery="32026" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32347" centery="32027" centerz="8" radius="3">
 		<monster name="Bat" x="3" y="1" z="8" spawntime="90" />
@@ -12939,12 +13948,73 @@
 	</spawn>
 	<spawn centerx="32455" centery="32027" centerz="8" radius="3" />
 	<spawn centerx="32469" centery="32027" centerz="8" radius="3" />
+	<spawn centerx="32963" centery="32027" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33006" centery="32027" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33023" centery="32027" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33035" centery="32028" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32610" centery="32029" centerz="8" radius="20" />
+	<spawn centerx="33008" centery="32029" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33014" centery="32029" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33020" centery="32029" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33029" centery="32029" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32966" centery="32030" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="-1" y="0" z="8" spawntime="-1332013312" />
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33024" centery="32030" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32963" centery="32031" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33006" centery="32031" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33049" centery="32033" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32448" centery="32034" centerz="8" radius="3">
 		<monster name="Dwarf" x="0" y="2" z="8" spawntime="90" />
 	</spawn>
+	<spawn centerx="32960" centery="32034" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33005" centery="32035" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32656" centery="32036" centerz="8" radius="2">
 		<monster name="Giant Spider" x="1" y="-1" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="33003" centery="32036" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32960" centery="32037" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33047" centery="32037" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32957" centery="32039" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33049" centery="32040" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32406" centery="32041" centerz="8" radius="3">
 		<monster name="Dwarf" x="3" y="-3" z="8" spawntime="90" />
@@ -12956,6 +14026,46 @@
 		<monster name="Dwarf" x="3" y="3" z="8" spawntime="90" />
 	</spawn>
 	<spawn centerx="32448" centery="32041" centerz="8" radius="3" />
+	<spawn centerx="32960" centery="32042" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32964" centery="32042" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33004" centery="32042" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32964" centery="32044" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32992" centery="32044" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33048" centery="32044" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32971" centery="32045" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32975" centery="32045" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33046" centery="32045" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32981" centery="32046" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32988" centery="32046" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Freakish Lost Soul" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32959" centery="32047" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33003" centery="32047" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32371" centery="32048" centerz="8" radius="3">
 		<monster name="Minotaur Archer" x="-1" y="0" z="8" spawntime="90" />
 	</spawn>
@@ -12967,6 +14077,21 @@
 	</spawn>
 	<spawn centerx="32469" centery="32048" centerz="8" radius="3" />
 	<spawn centerx="32476" centery="32048" centerz="8" radius="3" />
+	<spawn centerx="33047" centery="32048" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32955" centery="32049" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33050" centery="32050" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33045" centery="32051" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33042" centery="32054" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32420" centery="32055" centerz="8" radius="3">
 		<monster name="Rotworm" x="-2" y="2" z="8" spawntime="90" />
 	</spawn>
@@ -12986,20 +14111,99 @@
 	</spawn>
 	<spawn centerx="32469" centery="32055" centerz="8" radius="3" />
 	<spawn centerx="32476" centery="32055" centerz="8" radius="3" />
+	<spawn centerx="32954" centery="32056" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32978" centery="32056" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33003" centery="32056" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33022" centery="32057" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33027" centery="32057" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33044" centery="32057" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32975" centery="32058" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32983" centery="32058" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33002" centery="32059" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33019" centery="32059" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33023" centery="32059" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32970" centery="32060" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32999" centery="32060" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32504" centery="32061" centerz="8" radius="1" />
 	<spawn centerx="32510" centery="32061" centerz="8" radius="1" />
 	<spawn centerx="32525" centery="32061" centerz="8" radius="1" />
 	<spawn centerx="32528" centery="32061" centerz="8" radius="1" />
 	<spawn centerx="32531" centery="32061" centerz="8" radius="1" />
+	<spawn centerx="33007" centery="32061" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33012" centery="32061" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32427" centery="32062" centerz="8" radius="3">
 		<monster name="Rotworm" x="2" y="-2" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32986" centery="32062" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32989" centery="32062" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32998" centery="32062" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33014" centery="32062" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33008" centery="32063" centerz="8" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32966" centery="32064" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32990" centery="32064" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32993" centery="32064" centerz="8" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32534" centery="32065" centerz="8" radius="1" />
 	<spawn centerx="32543" centery="32065" centerz="8" radius="1" />
 	<spawn centerx="32545" centery="32065" centerz="8" radius="1" />
 	<spawn centerx="32526" centery="32066" centerz="8" radius="1" />
+	<spawn centerx="32953" centery="32067" centerz="8" radius="1">
+		<monster name="Cursed Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32502" centery="32068" centerz="8" radius="1" />
 	<spawn centerx="32511" centery="32068" centerz="8" radius="1" />
+	<spawn centerx="32992" centery="32068" centerz="8" radius="1">
+		<monster name="Evil Prospector" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32998" centery="32068" centerz="8" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32527" centery="32069" centerz="8" radius="1" />
 	<spawn centerx="32533" centery="32070" centerz="8" radius="1" />
 	<spawn centerx="32504" centery="32073" centerz="8" radius="1" />
@@ -13018,6 +14222,9 @@
 	</spawn>
 	<spawn centerx="32545" centery="32084" centerz="8" radius="1">
 		<monster name="Necromancer" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32982" centery="32085" centerz="8" radius="1">
+		<monster name="Vok The Freakish" x="-1" y="0" z="8" spawntime="1800" />
 	</spawn>
 	<spawn centerx="32521" centery="32086" centerz="8" radius="1">
 		<monster name="Vicious Squire" x="0" y="0" z="8" spawntime="60" />
@@ -14028,6 +15235,14 @@
 	<spawn centerx="33056" centery="32245" centerz="8" radius="1">
 		<monster name="Courage Leech" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="31590" centery="32246" centerz="8" radius="1">
+		<monster name="Pirat Cutthroat" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Pirat Cutthroat" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="31648" centery="32246" centerz="8" radius="1">
+		<monster name="Pirat Cutthroat" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Pirat Scoundrel" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32083" centery="32246" centerz="8" radius="3">
 		<monster name="Cobra Assassin" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Cobra Assassin" x="-2" y="3" z="8" spawntime="60" />
@@ -14053,6 +15268,10 @@
 	<spawn centerx="32741" centery="32246" centerz="8" radius="3">
 		<monster name="Blightwalker" x="-2" y="-2" z="8" spawntime="90" />
 	</spawn>
+	<spawn centerx="31667" centery="32247" centerz="8" radius="1">
+		<monster name="Pirat Scoundrel" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Pirat Cutthroat" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32452" centery="32247" centerz="8" radius="1">
 		<monster name="Skeleton" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -14062,6 +15281,14 @@
 	</spawn>
 	<spawn centerx="32854" centery="32247" centerz="8" radius="2">
 		<monster name="Terrorsleep" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="31618" centery="32248" centerz="8" radius="1">
+		<monster name="Pirat Cutthroat" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Pirat Scoundrel" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="31630" centery="32248" centerz="8" radius="1">
+		<monster name="Pirat Cutthroat" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Pirat Scoundrel" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="33063" centery="32248" centerz="8" radius="1">
 		<monster name="cloak of terror" x="0" y="0" z="8" spawntime="60" />
@@ -14078,6 +15305,15 @@
 	</spawn>
 	<spawn centerx="32449" centery="32251" centerz="8" radius="1">
 		<monster name="Skeleton" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="31604" centery="32252" centerz="8" radius="1">
+		<monster name="Pirat Scoundrel" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Pirat Scoundrel" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Pirat Cutthroat" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="31635" centery="32252" centerz="8" radius="1">
+		<monster name="Pirat Scoundrel" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Pirat Cutthroat" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32378" centery="32252" centerz="8" radius="5">
 		<monster name="Rotworm" x="2" y="3" z="8" spawntime="60" />
@@ -14129,6 +15365,18 @@
 		<monster name="Feversleep" x="3" y="-2" z="8" spawntime="60" />
 		<monster name="Terrorsleep" x="-2" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="31646" centery="32254" centerz="8" radius="1">
+		<monster name="Pirat Cutthroat" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Pirat Scoundrel" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="31611" centery="32255" centerz="8" radius="1">
+		<monster name="Pirat Cutthroat" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Pirat Scoundrel" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="31625" centery="32255" centerz="8" radius="1">
+		<monster name="Pirat Scoundrel" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Pirat Cutthroat" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32801" centery="32255" centerz="8" radius="2">
 		<monster name="Feversleep" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
@@ -14139,8 +15387,20 @@
 	<spawn centerx="32434" centery="32257" centerz="8" radius="1">
 		<monster name="Skeleton" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="31651" centery="32258" centerz="8" radius="1">
+		<monster name="Pirat Cutthroat" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Pirat Scoundrel" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32808" centery="32259" centerz="8" radius="2">
 		<monster name="Feversleep" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="31635" centery="32260" centerz="8" radius="1">
+		<monster name="Pirat Cutthroat" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Pirat Scoundrel" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="31644" centery="32260" centerz="8" radius="1">
+		<monster name="Pirat Scoundrel" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Pirat Cutthroat" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32083" centery="32260" centerz="8" radius="10">
 		<monster name="Cobra Assassin" x="0" y="-8" z="8" spawntime="60" />
@@ -14150,6 +15410,9 @@
 	</spawn>
 	<spawn centerx="32657" centery="32260" centerz="8" radius="3">
 		<monster name="Dark Torturer" x="-2" y="1" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="31668" centery="32262" centerz="8" radius="1">
+		<monster name="Pirat Cutthroat" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32449" centery="32262" centerz="8" radius="1">
 		<monster name="Skeleton" x="0" y="0" z="8" spawntime="60" />
@@ -14163,14 +15426,22 @@
 	<spawn centerx="32800" centery="32263" centerz="8" radius="2">
 		<monster name="Feversleep" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="32417" centery="32265" centerz="8" radius="1">
-		<monster name="Skeleton Elite Warrior" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="32808" centery="32265" centerz="8" radius="2">
 		<monster name="Feversleep" x="1" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="32416" centery="32266" centerz="8" radius="1">
+		<monster name="Bonelord" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32419" centery="32266" centerz="8" radius="1">
+		<monster name="Bonelord" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
 	<spawn centerx="32457" centery="32266" centerz="8" radius="1">
 		<monster name="Skeleton" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="31637" centery="32267" centerz="8" radius="1">
+		<monster name="Pirat Scoundrel" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Pirat Cutthroat" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Pirat Cutthroat" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32443" centery="32267" centerz="8" radius="1">
 		<monster name="Skeleton" x="0" y="0" z="8" spawntime="60" />
@@ -14215,8 +15486,28 @@
 	<spawn centerx="32418" centery="32268" centerz="8" radius="1">
 		<monster name="Skeleton Elite Warrior" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="31660" centery="32270" centerz="8" radius="1">
+		<monster name="Pirat Cutthroat" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Pirat Scoundrel" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="31666" centery="32271" centerz="8" radius="1">
+		<monster name="Pirat Scoundrel" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Pirat Scoundrel" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="31625" centery="32272" centerz="8" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Pirat Cutthroat" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="31630" centery="32272" centerz="8" radius="1">
+		<monster name="Pirat Cutthroat" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Pirat Scoundrel" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32692" centery="32272" centerz="8" radius="1">
 		<monster name="Plaguesmith" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="31653" centery="32273" centerz="8" radius="1">
+		<monster name="Pirat Cutthroat" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Pirat Cutthroat" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32438" centery="32274" centerz="8" radius="1">
 		<monster name="Skeleton" x="0" y="0" z="8" spawntime="60" />
@@ -14242,6 +15533,17 @@
 	</spawn>
 	<spawn centerx="32655" centery="32276" centerz="8" radius="1">
 		<monster name="Plaguesmith" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="31644" centery="32278" centerz="8" radius="1">
+		<monster name="Pirat Scoundrel" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Pirat Cutthroat" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="31666" centery="32278" centerz="8" radius="1">
+		<monster name="Pirat Scoundrel" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Pirat Scoundrel" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32405" centery="32279" centerz="8" radius="1">
+		<monster name="Ghoul" x="0" y="0" z="8" spawntime="90" />
 	</spawn>
 	<spawn centerx="32431" centery="32280" centerz="8" radius="1">
 		<monster name="Skeleton" x="0" y="0" z="8" spawntime="60" />
@@ -14272,6 +15574,9 @@
 	<spawn centerx="32458" centery="32282" centerz="8" radius="1">
 		<monster name="Skeleton" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="32460" centery="32283" centerz="8" radius="1">
+		<monster name="Bonelord" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
 	<spawn centerx="32665" centery="32283" centerz="8" radius="1">
 		<monster name="Plaguesmith" x="0" y="0" z="8" spawntime="90" />
 	</spawn>
@@ -14281,8 +15586,37 @@
 	<spawn centerx="32378" centery="32285" centerz="8" radius="1">
 		<monster name="Ghoul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="31625" centery="32286" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="-1" y="-1" z="8" spawntime="30" />
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31620" centery="32287" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31623" centery="32287" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="-1" y="-1" z="8" spawntime="30" />
+		<monster name="Exotic Cave Spider" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31630" centery="32287" centerz="8" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31648" centery="32287" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="-1" y="-1" z="8" spawntime="30" />
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+		<monster name="Exotic Bat" x="1" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31651" centery="32287" centerz="8" radius="1">
+		<monster name="Exotic Cave Spider" x="1" y="-1" z="8" spawntime="30" />
+		<monster name="Exotic Cave Spider" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
 	<spawn centerx="32404" centery="32287" centerz="8" radius="1">
 		<monster name="Skeleton" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="31628" centery="32288" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="32381" centery="32288" centerz="8" radius="1">
+		<monster name="Ghoul" x="0" y="0" z="8" spawntime="90" />
 	</spawn>
 	<spawn centerx="32657" centery="32288" centerz="8" radius="3">
 		<monster name="Blightwalker" x="2" y="2" z="8" spawntime="90" />
@@ -14311,23 +15645,64 @@
 		<monster name="Demon Outcast" x="0" y="-2" z="8" spawntime="90" />
 		<monster name="Plaguesmith" x="-1" y="1" z="8" spawntime="90" />
 	</spawn>
+	<spawn centerx="31635" centery="32289" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="32379" centery="32289" centerz="8" radius="1">
+		<monster name="Bonelord" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
 	<spawn centerx="32692" centery="32289" centerz="8" radius="1">
 		<monster name="Plaguesmith" x="0" y="0" z="8" spawntime="90" />
 	</spawn>
-	<spawn centerx="32418" centery="32290" centerz="8" radius="1">
-		<monster name="Skeleton Elite Warrior" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="31622" centery="32290" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
 	</spawn>
-	<spawn centerx="32382" centery="32292" centerz="8" radius="1">
-		<monster name="Ghoul" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="31626" centery="32290" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
 	</spawn>
-	<spawn centerx="32378" centery="32293" centerz="8" radius="1">
-		<monster name="Skeleton Elite Warrior" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="31653" centery="32290" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="-1" y="-1" z="8" spawntime="30" />
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
 	</spawn>
-	<spawn centerx="32389" centery="32293" centerz="8" radius="1">
-		<monster name="Skeleton Elite Warrior" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="31676" centery="32291" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+		<monster name="Exotic Bat" x="0" y="1" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31624" centery="32292" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="32403" centery="32292" centerz="8" radius="1">
+		<monster name="Ghoul" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="31673" centery="32293" centerz="8" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="8" spawntime="30" />
+		<monster name="Exotic Bat" x="0" y="1" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="32382" centery="32293" centerz="8" radius="1">
+		<monster name="Ghoul" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32392" centery="32293" centerz="8" radius="1">
+		<monster name="Ghoul" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="31675" centery="32294" centerz="8" radius="1">
+		<monster name="Exotic Cave Spider" x="1" y="-1" z="8" spawntime="30" />
+		<monster name="Exotic Cave Spider" x="0" y="0" z="8" spawntime="30" />
 	</spawn>
 	<spawn centerx="32375" centery="32294" centerz="8" radius="1">
 		<monster name="Skeleton" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="31655" centery="32295" centerz="8" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31669" centery="32295" centerz="8" radius="3">
+		<monster name="Exotic Bat" x="-3" y="-2" z="8" spawntime="30" />
+		<monster name="Exotic Bat" x="-2" y="-1" z="8" spawntime="30" />
+		<monster name="Exotic Bat" x="-3" y="0" z="8" spawntime="30" />
+		<monster name="Exotic Bat" x="-1" y="1" z="8" spawntime="30" />
+		<monster name="Exotic Bat" x="1" y="1" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="32468" centery="32295" centerz="8" radius="1">
+		<monster name="Demon Skeleton" x="0" y="0" z="8" spawntime="90" />
 	</spawn>
 	<spawn centerx="32657" centery="32295" centerz="8" radius="3">
 		<monster name="Dark Torturer" x="-2" y="-1" z="8" spawntime="90" />
@@ -14335,14 +15710,14 @@
 	<spawn centerx="32755" centery="32295" centerz="8" radius="3">
 		<monster name="Demon Outcast" x="0" y="3" z="8" spawntime="90" />
 	</spawn>
-	<spawn centerx="32439" centery="32296" centerz="8" radius="1">
-		<monster name="Skeleton Elite Warrior" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="32464" centery="32296" centerz="8" radius="1">
-		<monster name="Skeleton Elite Warrior" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="32439" centery="32297" centerz="8" radius="1">
+		<monster name="Demon Skeleton" x="0" y="0" z="8" spawntime="90" />
 	</spawn>
 	<spawn centerx="32456" centery="32297" centerz="8" radius="1">
 		<monster name="Ghoul" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32461" centery="32297" centerz="8" radius="1">
+		<monster name="Bonelord" x="0" y="0" z="8" spawntime="90" />
 	</spawn>
 	<spawn centerx="32556" centery="32297" centerz="8" radius="1">
 		<monster name="Poison Spider" x="0" y="0" z="8" spawntime="60" />
@@ -14350,8 +15725,31 @@
 	<spawn centerx="32406" centery="32298" centerz="8" radius="1">
 		<monster name="Skeleton" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="31658" centery="32299" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31665" centery="32299" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31685" centery="32299" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="-1" z="8" spawntime="30" />
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+		<monster name="Exotic Bat" x="1" y="1" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31695" centery="32299" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31688" centery="32300" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31685" centery="32301" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
 	<spawn centerx="32558" centery="32301" centerz="8" radius="1">
 		<monster name="Poison Spider" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="31706" centery="32302" centerz="8" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="8" spawntime="30" />
 	</spawn>
 	<spawn centerx="32371" centery="32302" centerz="8" radius="1">
 		<monster name="Ghoul" x="0" y="0" z="8" spawntime="60" />
@@ -14378,59 +15776,127 @@
 	<spawn centerx="32755" centery="32302" centerz="8" radius="3">
 		<monster name="Dark Torturer" x="-3" y="0" z="8" spawntime="90" />
 	</spawn>
+	<spawn centerx="31624" centery="32303" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="32410" centery="32304" centerz="8" radius="1">
+		<monster name="Bonelord" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="31708" centery="32305" centerz="8" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
 	<spawn centerx="32405" centery="32305" centerz="8" radius="1">
 		<monster name="Skeleton" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32478" centery="32305" centerz="8" radius="1">
 		<monster name="Skeleton" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="32395" centery="32306" centerz="8" radius="1">
-		<monster name="Skeleton Elite Warrior" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="31663" centery="32306" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+		<monster name="Exotic Bat" x="-1" y="1" z="8" spawntime="30" />
 	</spawn>
-	<spawn centerx="32461" centery="32306" centerz="8" radius="1">
-		<monster name="Skeleton Elite Warrior" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="32455" centery="32306" centerz="8" radius="1">
+		<monster name="Demon Skeleton" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32469" centery="32306" centerz="8" radius="1">
+		<monster name="Demon Skeleton" x="0" y="0" z="8" spawntime="90" />
 	</spawn>
 	<spawn centerx="32566" centery="32306" centerz="8" radius="1">
 		<monster name="Poison Spider" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="31624" centery="32307" centerz="8" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31707" centery="32307" centerz="8" radius="1">
+		<monster name="Exotic Cave Spider" x="-1" y="-1" z="8" spawntime="30" />
+		<monster name="Exotic Cave Spider" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
 	<spawn centerx="32439" centery="32308" centerz="8" radius="1">
 		<monster name="Ghoul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="32443" centery="32308" centerz="8" radius="1">
-		<monster name="Skeleton Elite Warrior" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="31623" centery="32309" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+		<monster name="Exotic Bat" x="1" y="0" z="8" spawntime="30" />
 	</spawn>
-	<spawn centerx="32375" centery="32309" centerz="8" radius="1">
-		<monster name="Skeleton" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="31636" centery="32309" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31625" centery="32310" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="32375" centery="32310" centerz="8" radius="1">
+		<monster name="Skeleton" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32411" centery="32310" centerz="8" radius="1">
+		<monster name="Demon Skeleton" x="0" y="0" z="8" spawntime="90" />
 	</spawn>
 	<spawn centerx="32418" centery="32312" centerz="8" radius="1">
 		<monster name="Ghoul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="31674" centery="32313" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
 	<spawn centerx="32384" centery="32313" centerz="8" radius="1">
 		<monster name="Skeleton" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32435" centery="32313" centerz="8" radius="1">
+		<monster name="Bonelord" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="31706" centery="32314" centerz="8" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="32374" centery="32314" centerz="8" radius="1">
+		<monster name="Bonelord" x="0" y="0" z="8" spawntime="90" />
 	</spawn>
 	<spawn centerx="32379" centery="32314" centerz="8" radius="1">
 		<monster name="Ghoul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="32476" centery="32315" centerz="8" radius="1">
-		<monster name="Skeleton" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="32476" centery="32314" centerz="8" radius="1">
+		<monster name="Skeleton" x="0" y="1" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="32457" centery="32316" centerz="8" radius="1">
-		<monster name="Skeleton Elite Warrior" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="31623" centery="32315" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+		<monster name="Exotic Cave Spider" x="1" y="1" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31634" centery="32315" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="1" y="-1" z="8" spawntime="30" />
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="32458" centery="32315" centerz="8" radius="1">
+		<monster name="Demon Skeleton" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="31696" centery="32316" centerz="8" radius="1">
+		<monster name="Exotic Cave Spider" x="1" y="-1" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="32465" centery="32316" centerz="8" radius="1">
+		<monster name="Bonelord" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="31625" centery="32317" centerz="8" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="8" spawntime="30" />
 	</spawn>
 	<spawn centerx="32472" centery="32317" centerz="8" radius="1">
 		<monster name="Ghoul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="31680" centery="32319" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
 	<spawn centerx="32437" centery="32319" centerz="8" radius="1">
 		<monster name="Skeleton" x="0" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="32420" centery="32321" centerz="8" radius="1">
-		<monster name="Skeleton Elite Warrior" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32449" centery="32322" centerz="8" radius="1">
 		<monster name="Ghoul" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="32442" centery="32323" centerz="8" radius="1">
-		<monster name="Skeleton Elite Warrior" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="32416" centery="32323" centerz="8" radius="1">
+		<monster name="Demon Skeleton" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="32430" centery="32323" centerz="8" radius="1">
+		<monster name="Bonelord" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="31619" centery="32324" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31631" centery="32324" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
 	</spawn>
 	<spawn centerx="32381" centery="32324" centerz="8" radius="1">
 		<monster name="Demon Skeleton" x="0" y="0" z="8" spawntime="60" />
@@ -14438,19 +15904,63 @@
 	<spawn centerx="32425" centery="32325" centerz="8" radius="1">
 		<monster name="Skeleton" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="31618" centery="32326" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31652" centery="32326" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
 	<spawn centerx="32390" centery="32326" centerz="8" radius="1">
 		<monster name="Demon Skeleton" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="32400" centery="32326" centerz="8" radius="1">
-		<monster name="Demon Skeleton" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="31670" centery="32327" centerz="8" radius="1">
+		<monster name="Exotic Cave Spider" x="1" y="-1" z="8" spawntime="30" />
 	</spawn>
-	<spawn centerx="32412" centery="32326" centerz="8" radius="1">
-		<monster name="Skeleton Elite Warrior" x="0" y="0" z="8" spawntime="60" />
+	<spawn centerx="32400" centery="32327" centerz="8" radius="1">
+		<monster name="Demon Skeleton" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32098" centery="32328" centerz="8" radius="1">
 		<monster name="Execowtioner" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="32408" centery="32329" centerz="8" radius="1">
+		<monster name="Bonelord" x="0" y="0" z="8" spawntime="90" />
+	</spawn>
+	<spawn centerx="31653" centery="32330" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31668" centery="32330" centerz="8" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31617" centery="32331" centerz="8" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="8" spawntime="30" />
+		<monster name="Exotic Cave Spider" x="-1" y="1" z="8" spawntime="30" />
+	</spawn>
 	<spawn centerx="32099" centery="32331" centerz="8" radius="1" />
+	<spawn centerx="31616" centery="32333" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31633" centery="32334" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31666" centery="32334" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31707" centery="32334" centerz="8" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="-1" z="8" spawntime="30" />
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31638" centery="32336" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31642" centery="32336" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31664" centery="32336" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31675" centery="32336" centerz="8" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</spawn>
 	<spawn centerx="32102" centery="32336" centerz="8" radius="1">
 		<monster name="Mooh'Tah Warrior" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -14460,6 +15970,9 @@
 	<spawn centerx="32111" centery="32338" centerz="8" radius="1">
 		<monster name="Moohtant" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="31679" centery="32339" centerz="8" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="1" z="8" spawntime="30" />
+	</spawn>
 	<spawn centerx="31848" centery="32339" centerz="8" radius="1">
 		<monster name="Scarab" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -14468,6 +15981,14 @@
 	</spawn>
 	<spawn centerx="32099" centery="32341" centerz="8" radius="1">
 		<monster name="Moohtant" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="31707" centery="32344" centerz="8" radius="4">
+		<monster name="Exotic Bat" x="1" y="-2" z="8" spawntime="30" />
+		<monster name="Exotic Bat" x="-2" y="0" z="8" spawntime="30" />
+		<monster name="Exotic Bat" x="0" y="2" z="8" spawntime="30" />
+	</spawn>
+	<spawn centerx="31681" centery="32345" centerz="8" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="8" spawntime="30" />
 	</spawn>
 	<spawn centerx="32099" centery="32351" centerz="8" radius="1">
 		<monster name="Minotaur Amazon" x="0" y="0" z="8" spawntime="60" />
@@ -14492,6 +16013,10 @@
 	</spawn>
 	<spawn centerx="32128" centery="32354" centerz="8" radius="1">
 		<monster name="Execowtioner" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="31708" centery="32355" centerz="8" radius="2">
+		<monster name="Exotic Bat" x="1" y="-2" z="8" spawntime="30" />
+		<monster name="Exotic Bat" x="0" y="1" z="8" spawntime="30" />
 	</spawn>
 	<spawn centerx="32099" centery="32356" centerz="8" radius="1">
 		<monster name="Moohtant" x="0" y="0" z="8" spawntime="60" />
@@ -17978,6 +19503,18 @@
 	<spawn centerx="32701" centery="32241" centerz="9" radius="1">
 		<monster name="Demon Outcast" x="0" y="0" z="9" spawntime="90" />
 	</spawn>
+	<spawn centerx="31656" centery="32242" centerz="9" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31672" centery="32242" centerz="9" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31699" centery="32242" centerz="9" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31706" centery="32242" centerz="9" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="32665" centery="32242" centerz="9" radius="1">
 		<monster name="Demon Outcast" x="0" y="0" z="9" spawntime="90" />
 	</spawn>
@@ -17987,8 +19524,29 @@
 	<spawn centerx="32727" centery="32243" centerz="9" radius="1">
 		<monster name="Demon Outcast" x="0" y="0" z="9" spawntime="90" />
 	</spawn>
+	<spawn centerx="31652" centery="32244" centerz="9" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31669" centery="32244" centerz="9" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31682" centery="32244" centerz="9" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31696" centery="32244" centerz="9" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31706" centery="32244" centerz="9" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31710" centery="32244" centerz="9" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="32844" centery="32244" centerz="9" radius="2">
 		<monster name="Terrorsleep" x="0" y="-1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31678" centery="32245" centerz="9" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="32657" centery="32246" centerz="9" radius="3">
 		<monster name="Demon Outcast" x="-3" y="1" z="9" spawntime="90" />
@@ -18015,8 +19573,64 @@
 		<monster name="Feversleep" x="0" y="0" z="9" spawntime="60" />
 		<monster name="Terrorsleep" x="-2" y="2" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="31666" centery="32248" centerz="9" radius="1">
+		<monster name="Pirat Scoundrel" x="-1" y="-1" z="9" spawntime="60" />
+		<monster name="Pirat Scoundrel" x="1" y="-1" z="9" spawntime="60" />
+		<monster name="Pirat Cutthroat" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31669" centery="32250" centerz="9" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Pirat Scoundrel" x="-1" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31675" centery="32250" centerz="9" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31680" centery="32250" centerz="9" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Pirat Cutthroat" x="-1" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31683" centery="32250" centerz="9" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31697" centery="32250" centerz="9" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31700" centery="32250" centerz="9" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31704" centery="32250" centerz="9" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31659" centery="32251" centerz="9" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31664" centery="32251" centerz="9" radius="1">
+		<monster name="Pirat Cutthroat" x="1" y="-1" z="9" spawntime="60" />
+		<monster name="Pirat Cutthroat" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31677" centery="32251" centerz="9" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="-1" z="9" spawntime="60" />
+		<monster name="Pirat Scoundrel" x="1" y="1" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="32701" centery="32251" centerz="9" radius="1">
 		<monster name="Demon Outcast" x="0" y="0" z="9" spawntime="90" />
+	</spawn>
+	<spawn centerx="31673" centery="32252" centerz="9" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31678" centery="32252" centerz="9" radius="1" />
+	<spawn centerx="31680" centery="32252" centerz="9" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31667" centery="32253" centerz="9" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="-1" z="9" spawntime="60" />
+		<monster name="Pirat Scoundrel" x="-1" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31696" centery="32253" centerz="9" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31702" centery="32253" centerz="9" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="32671" centery="32253" centerz="9" radius="3">
 		<monster name="Dark Torturer" x="-2" y="0" z="9" spawntime="90" />
@@ -18050,14 +19664,33 @@
 	<spawn centerx="32860" centery="32253" centerz="9" radius="3">
 		<monster name="Terrorsleep" x="2" y="1" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="31666" centery="32254" centerz="9" radius="1" />
 	<spawn centerx="32733" centery="32254" centerz="9" radius="1">
 		<monster name="Demon Outcast" x="0" y="0" z="9" spawntime="90" />
+	</spawn>
+	<spawn centerx="31655" centery="32257" centerz="9" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31662" centery="32257" centerz="9" radius="1">
+		<monster name="Pirat Scoundrel" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31666" centery="32257" centerz="9" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="32654" centery="32257" centerz="9" radius="1">
 		<monster name="Hellhound" x="0" y="0" z="9" spawntime="90" />
 	</spawn>
 	<spawn centerx="32844" centery="32257" centerz="9" radius="2">
 		<monster name="Terrorsleep" x="0" y="-1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31659" centery="32258" centerz="9" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31661" centery="32259" centerz="9" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31697" centery="32259" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
 	</spawn>
 	<spawn centerx="32671" centery="32260" centerz="9" radius="3">
 		<monster name="Dark Torturer" x="3" y="3" z="9" spawntime="90" />
@@ -18080,8 +19713,30 @@
 	<spawn centerx="32853" centery="32260" centerz="9" radius="3">
 		<monster name="Feversleep" x="3" y="-3" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="31695" centery="32261" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31666" centery="32262" centerz="9" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31702" centery="32262" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31705" centery="32264" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
 	<spawn centerx="32701" centery="32265" centerz="9" radius="1">
 		<monster name="Plaguesmith" x="0" y="0" z="9" spawntime="90" />
+	</spawn>
+	<spawn centerx="31684" centery="32266" centerz="9" radius="1">
+		<monster name="Exotic Cave Spider" x="1" y="-1" z="9" spawntime="30" />
+		<monster name="Exotic Cave Spider" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31665" centery="32267" centerz="9" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31682" centery="32267" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
 	</spawn>
 	<spawn centerx="32671" centery="32267" centerz="9" radius="3">
 		<monster name="Juggernaut" x="1" y="0" z="9" spawntime="90" />
@@ -18104,11 +19759,27 @@
 	<spawn centerx="32755" centery="32267" centerz="9" radius="3">
 		<monster name="Plaguesmith" x="0" y="-2" z="9" spawntime="90" />
 	</spawn>
+	<spawn centerx="31679" centery="32268" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31664" centery="32270" centerz="9" radius="1">
+		<monster name="Pirat Cutthroat" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31680" centery="32270" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
 	<spawn centerx="32665" centery="32272" centerz="9" radius="1">
 		<monster name="Hellhound" x="0" y="0" z="9" spawntime="90" />
 	</spawn>
 	<spawn centerx="32727" centery="32273" centerz="9" radius="1">
 		<monster name="Plaguesmith" x="0" y="0" z="9" spawntime="90" />
+	</spawn>
+	<spawn centerx="31623" centery="32274" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+		<monster name="Exotic Bat" x="1" y="1" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31625" centery="32274" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
 	</spawn>
 	<spawn centerx="32678" centery="32274" centerz="9" radius="3">
 		<monster name="Demon Outcast" x="2" y="-3" z="9" spawntime="90" />
@@ -18133,17 +19804,82 @@
 	<spawn centerx="32753" centery="32274" centerz="9" radius="1">
 		<monster name="Demon Outcast" x="0" y="0" z="9" spawntime="90" />
 	</spawn>
+	<spawn centerx="31678" centery="32275" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31644" centery="32276" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31639" centery="32277" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31646" centery="32277" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31689" centery="32277" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
 	<spawn centerx="32671" centery="32277" centerz="9" radius="1">
 		<monster name="Plaguesmith" x="0" y="0" z="9" spawntime="90" />
 	</spawn>
 	<spawn centerx="32721" centery="32277" centerz="9" radius="1">
 		<monster name="Plaguesmith" x="0" y="0" z="9" spawntime="90" />
 	</spawn>
+	<spawn centerx="31627" centery="32278" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+		<monster name="Exotic Bat" x="1" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31653" centery="32278" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="-1" y="-1" z="9" spawntime="30" />
+		<monster name="Exotic Bat" x="1" y="-1" z="9" spawntime="30" />
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31662" centery="32278" centerz="9" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31671" centery="32278" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31709" centery="32278" centerz="9" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
 	<spawn centerx="32673" centery="32278" centerz="9" radius="1">
 		<monster name="Plaguesmith" x="0" y="0" z="9" spawntime="90" />
 	</spawn>
+	<spawn centerx="31630" centery="32279" centerz="9" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="9" spawntime="30" />
+		<monster name="Exotic Bat" x="1" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31634" centery="32279" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+		<monster name="Exotic Bat" x="1" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31651" centery="32279" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="-1" z="9" spawntime="30" />
+		<monster name="Exotic Bat" x="1" y="1" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31686" centery="32279" centerz="9" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
 	<spawn centerx="32669" centery="32279" centerz="9" radius="1">
 		<monster name="Plaguesmith" x="0" y="0" z="9" spawntime="90" />
+	</spawn>
+	<spawn centerx="31669" centery="32280" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31673" centery="32280" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31666" centery="32281" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="-1" z="9" spawntime="30" />
+		<monster name="Exotic Cave Spider" x="1" y="-1" z="9" spawntime="30" />
+		<monster name="Exotic Cave Spider" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31677" centery="32281" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31697" centery="32281" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
 	</spawn>
 	<spawn centerx="32657" centery="32281" centerz="9" radius="3">
 		<monster name="Dark Torturer" x="2" y="-2" z="9" spawntime="90" />
@@ -18172,11 +19908,33 @@
 		<monster name="Plaguesmith" x="-3" y="-1" z="9" spawntime="90" />
 		<monster name="Plaguesmith" x="0" y="3" z="9" spawntime="90" />
 	</spawn>
+	<spawn centerx="31631" centery="32282" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31694" centery="32282" centerz="9" radius="1">
+		<monster name="Exotic Cave Spider" x="1" y="-1" z="9" spawntime="30" />
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31672" centery="32283" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
 	<spawn centerx="32585" centery="32283" centerz="9" radius="1">
 		<monster name="Poison Spider" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="31710" centery="32284" centerz="9" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
 	<spawn centerx="32583" centery="32284" centerz="9" radius="1">
 		<monster name="Giant Spider" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31634" centery="32286" centerz="9" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31663" centery="32286" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31708" centery="32288" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
 	</spawn>
 	<spawn centerx="32657" centery="32288" centerz="9" radius="3">
 		<monster name="Plaguesmith" x="-1" y="1" z="9" spawntime="90" />
@@ -18214,11 +19972,39 @@
 	<spawn centerx="32734" centery="32288" centerz="9" radius="3">
 		<monster name="Plaguesmith" x="0" y="-2" z="9" spawntime="90" />
 	</spawn>
+	<spawn centerx="31626" centery="32290" centerz="9" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31656" centery="32290" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+		<monster name="Exotic Bat" x="-1" y="1" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31704" centery="32290" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31659" centery="32291" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
 	<spawn centerx="32581" centery="32291" centerz="9" radius="1">
 		<monster name="Poison Spider" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="31639" centery="32292" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31656" centery="32292" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
 	<spawn centerx="32665" centery="32292" centerz="9" radius="1">
 		<monster name="Hellhound" x="0" y="0" z="9" spawntime="90" />
+	</spawn>
+	<spawn centerx="31645" centery="32293" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31677" centery="32293" centerz="9" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31680" centery="32293" centerz="9" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="9" spawntime="30" />
 	</spawn>
 	<spawn centerx="32753" centery="32293" centerz="9" radius="1">
 		<monster name="Demon Outcast" x="0" y="0" z="9" spawntime="90" />
@@ -18234,6 +20020,26 @@
 	</spawn>
 	<spawn centerx="32734" centery="32295" centerz="9" radius="3">
 		<monster name="Plaguesmith" x="-3" y="1" z="9" spawntime="90" />
+	</spawn>
+	<spawn centerx="31676" centery="32296" centerz="9" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="9" spawntime="30" />
+		<monster name="Exotic Bat" x="1" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31679" centery="32296" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="1" y="-1" z="9" spawntime="30" />
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31684" centery="32297" centerz="9" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31702" centery="32297" centerz="9" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31687" centery="32299" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31677" centery="32302" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
 	</spawn>
 	<spawn centerx="32608" centery="32302" centerz="9" radius="1">
 		<monster name="Poison Spider" x="0" y="0" z="9" spawntime="60" />
@@ -18270,6 +20076,9 @@
 		<monster name="Demon Outcast" x="-3" y="-2" z="9" spawntime="90" />
 		<monster name="Dark Torturer" x="-3" y="3" z="9" spawntime="90" />
 	</spawn>
+	<spawn centerx="31701" centery="32303" centerz="9" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
 	<spawn centerx="32613" centery="32303" centerz="9" radius="1">
 		<monster name="Giant Spider" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
@@ -18282,11 +20091,17 @@
 	<spawn centerx="32746" centery="32303" centerz="9" radius="1">
 		<monster name="Demon Outcast" x="0" y="0" z="9" spawntime="90" />
 	</spawn>
+	<spawn centerx="31634" centery="32304" centerz="9" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
 	<spawn centerx="31967" centery="32304" centerz="9" radius="1">
 		<monster name="Marid" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="32682" centery="32304" centerz="9" radius="1">
 		<monster name="Dark Torturer" x="0" y="0" z="9" spawntime="90" />
+	</spawn>
+	<spawn centerx="31640" centery="32305" centerz="9" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="9" spawntime="30" />
 	</spawn>
 	<spawn centerx="31970" centery="32305" centerz="9" radius="1">
 		<monster name="Efreet" x="0" y="0" z="9" spawntime="60" />
@@ -18294,11 +20109,26 @@
 	<spawn centerx="32576" centery="32305" centerz="9" radius="1">
 		<monster name="Poison Spider" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="31679" centery="32306" centerz="9" radius="1">
+		<monster name="Exotic Bat" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31701" centery="32306" centerz="9" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="-1" z="9" spawntime="30" />
+	</spawn>
 	<spawn centerx="31965" centery="32306" centerz="9" radius="1">
 		<monster name="Efreet" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="31708" centery="32307" centerz="9" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
 	<spawn centerx="32567" centery="32308" centerz="9" radius="1">
 		<monster name="Poison Spider" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="31650" centery="32309" centerz="9" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="9" spawntime="30" />
+	</spawn>
+	<spawn centerx="31712" centery="32309" centerz="9" radius="1">
+		<monster name="Exotic Cave Spider" x="0" y="0" z="9" spawntime="30" />
 	</spawn>
 	<spawn centerx="31964" centery="32310" centerz="9" radius="1">
 		<monster name="Efreet" x="0" y="0" z="9" spawntime="60" />
