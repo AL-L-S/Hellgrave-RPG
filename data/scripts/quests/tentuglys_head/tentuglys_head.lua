@@ -1,7 +1,7 @@
 local config = {
     cooldown = 60 * 60 * 24, -- in seconds - (Make it 'seconds * minutes * hours' - its will be '60 * 60 * 20' for 20 hours) (player cooldown)
-    cooldown_storage = 813005,
-    duration = 20, -- time till reset, in minutes (lever cooldown)
+    cooldown_storage = 814098,
+    duration = 0, -- time till reset, in minutes (lever cooldown)
     level_req = 150, -- minimum level to do quest
     min_players = 1, -- minimum players to join quest
     lever_id = 1945, -- id of lever before pulled
@@ -9,25 +9,29 @@ local config = {
 }
 
 local player_positions = {
-    [1] = {fromPos = Position(31689, 32402, 6), toPos = Position(31683, 32537, 6)},
-    [2] = {fromPos = Position(31690, 32402, 6), toPos = Position(31684, 32537, 6)},
-    [3] = {fromPos = Position(31691, 32402, 6), toPos = Position(31685, 32537, 6)},
-    [4] = {fromPos = Position(31692, 32402, 6), toPos = Position(31686, 32537, 6)}
+    [1] = {fromPos = Position(31684, 32395, 6), toPos = Position(31684, 32362, 6)},
+    [2] = {fromPos = Position(31685, 32395, 6), toPos = Position(31684, 32362, 6)},
+    [3] = {fromPos = Position(31686, 32395, 6), toPos = Position(31684, 32362, 6)},
+    [4] = {fromPos = Position(31687, 32395, 6), toPos = Position(31684, 32362, 6)}
 }
 
 local monsters = {
-    [1] = {pos = Position(31684, 32358, 7), name = "Tentuglys Head"},
+    [1] = {pos = Position(31684, 32358, 7), name = "Tentuglys Boss"},
 	[2] = {pos = Position(31680, 32352, 7), name = "Tentuglys Tentacle"},
 	[3] = {pos = Position(31688, 32356, 7), name = "Tentuglys Tentacle"},
 	[4] = {pos = Position(31698, 32356, 7), name = "Tentuglys Tentacle"},
 	[5] = {pos = Position(31689, 32362, 7), name = "Tentuglys Tentacle"},
-	[6] = {pos = Position(31684, 32367, 7), name = "Tentuglys Tentacle"}
+	[6] = {pos = Position(31684, 32367, 7), name = "Tentuglys Tentacle"},
+	[7] = {pos = Position(31678, 32359, 6), name = "Tentuglys Tentacle"},
+	[8] = {pos = Position(31679, 32367, 6), name = "Tentuglys Tentacle"},
+	[9] = {pos = Position(31676, 32352, 6), name = "Tentuglys Tentacle"},
+	[7] = {pos = Position(31688, 32352, 6), name = "Tentuglys Tentacle"}
 }
 local quest_range = {fromPos = Position(31673, 32353, 7), toPos = Position(31697, 32365, 7)} -- see image in thread for explanation
 
-local exit_position = Position(31688, 32398, 7) -- Position completely outside the quest area
+local exit_position = Position(31697, 32395, 7) -- Position completely outside the quest area
 
-local tentuglysHead = Action()
+local tentQuest = Action()
 
 function doResetTheBossDukeKrule(position, cid_array)
  
@@ -84,7 +88,7 @@ local specs, spec = Game.getSpectators(Position(33919, 31646, 8), false, false, 
     end
 end
 
-function tentuglysHead.onUse(player, item, fromPosition, target, toPosition, isHotkey)
+function tentQuest.onUse(player, item, fromPosition, target, toPosition, isHotkey)
     if player:getStorageValue(config.cooldown_storage) >= os.time() then
         player:sendTextMessage(MESSAGE_INFO_DESCR, "Try Again in 4 Hours.")
         return true
@@ -151,5 +155,5 @@ function tentuglysHead.onUse(player, item, fromPosition, target, toPosition, isH
     return true
 end
 
-tentuglysHead:uid(42704)
-tentuglysHead:register()
+tentQuest:uid(42704)
+tentQuest:register()

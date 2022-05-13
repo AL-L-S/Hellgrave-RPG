@@ -1,7 +1,7 @@
-local mType = Game.createMonsterType("Tentuglys Head")
+local mType = Game.createMonsterType("Tentuglys Boss")
 local monster = {}
 
-monster.description = "a tentuglys head"
+monster.description = "a tentuglys boss"
 monster.experience = 40000
 monster.outfit = {
 	lookTypeEx = 39940
@@ -78,6 +78,9 @@ monster.loot = {
 monster.attacks = {
 	{name ="melee", interval = 2000, chance = 100, minDamage = -0, maxDamage = -700},
 	{name ="combat", interval = 2000, chance = 20, type = COMBAT_ENERGYDAMAGE, minDamage = -160, maxDamage = -250, range = 6, shootEffect = CONST_ANI_ENERGYBALL, target = true},
+	{name ="combat", interval = 1000, chance = 15, type = COMBAT_MANADRAIN, minDamage = -70, maxDamage = -300, range = 7, target = false},
+	{name ="combat", interval = 1000, chance = 13, type = COMBAT_ENERGYDAMAGE, minDamage = -100, maxDamage = -490, range = 7, shootEffect = CONST_ANI_ENERGY, effect = CONST_ME_ENERGYHIT, target = false},
+	{name ="combat", interval = 1000, chance = 10, type = COMBAT_PHYSICALDAMAGE, minDamage = -80, maxDamage = -551, range = 7, shootEffect = CONST_ANI_SUDDENDEATH, target = false},
 	{name ="combat", interval = 2000, chance = 10, type = COMBAT_DROWNDAMAGE, minDamage = -150, maxDamage = -180, radius = 8, effect = CONST_ME_WATERSPLASH, target = false},
 	{name ="condition", type = CONDITION_DROWN, interval = 2000, chance = 10, minDamage = -180, maxDamage = -300, radius = 8, effect = CONST_ME_WATERSPLASH, target = false},
 }
@@ -106,5 +109,11 @@ monster.immunities = {
 	{type = "invisible", condition = false},
 	{type = "bleed", condition = false}
 }
+
+mType.onAppear = function(monster, creature)
+	if monster:getType():isRewardBoss() then
+		monster:setReward(true)
+	end
+end
 
 mType:register(monster)
